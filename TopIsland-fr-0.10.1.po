@@ -1,0 +1,587 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TopIsland 3.20.4\n"
+"PO-Revision-Date: 2025-09-15 08:59 UTC\n"
+"Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Demon.module:252
+msgid "\"Nuevo correo de "
+msgstr ""
+
+#: Demon.module:98
+msgid "% charged !"
+msgstr ""
+
+#: Reglages.form:608
+msgid "(0 = very close to 10 = very distant) See info icon for more information"
+msgstr ""
+
+#: Reglages.form:1364
+msgid "."
+msgstr ""
+
+#: Notif.form:35
+msgid "...message"
+msgstr ""
+
+#: Reglages.form:635
+msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
+msgstr ""
+
+#: frmAbout.form:64
+msgid "1.0.0"
+msgstr ""
+
+#: Reglages.form:1158
+msgid "2"
+msgstr ""
+
+#: Reglages.form:1172
+msgid "995"
+msgstr ""
+
+#: Minuteur1.form:70
+msgid ":"
+msgstr ""
+
+#: Island.form:58
+msgid "About"
+msgstr ""
+
+#: Reglages.form:285
+msgid "Above"
+msgstr ""
+
+#: MailVerif.form:29
+msgid "Abrir Correo"
+msgstr ""
+
+#: Reglages.form:726
+msgid "Access log"
+msgstr ""
+
+#: Reglages.form:742
+msgid "Add to white list"
+msgstr ""
+
+#: Reglages.class:1256
+msgid "Add to white liste"
+msgstr ""
+
+#: MailVerif.class:64
+msgid "An error occurred. Please verify your connection details or your internet access."
+msgstr ""
+
+#: MailVerif.class:136
+msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
+msgstr ""
+
+#: Reglages.form:1129
+msgid "Auto close notification"
+msgstr ""
+
+#: Reglages.form:601
+msgid "Auto lock and unlock (dBm)"
+msgstr ""
+
+#: Floating.form:96 Reglages.form:947
+msgid "Baidu"
+msgstr ""
+
+#: Reglages.form:427
+msgid "Battery"
+msgstr ""
+
+#: BatteryNotifNew.form:65 NotifAlert.form:58
+msgid "Battery information"
+msgstr ""
+
+#: Reglages.form:460
+msgid "Battery sound"
+msgstr ""
+
+#: Reglages.form:285
+msgid "Below"
+msgstr ""
+
+#: Reglages.form:340
+msgid "Big hour widget on your desktop"
+msgstr ""
+
+#: Floating.form:111 Reglages.form:947
+msgid "Bing"
+msgstr ""
+
+#: Reglages.form:272
+msgid "Black"
+msgstr ""
+
+#: FollowMe.form:80
+msgid "BlueSky"
+msgstr ""
+
+#: Reglages.form:596
+msgid "Bluetooth device"
+msgstr ""
+
+#: Reglages.form:319
+msgid "Calendar app"
+msgstr ""
+
+#: Reglages.form:397
+msgid "Candy"
+msgstr ""
+
+#: Reglages.form:351
+msgid "Change color"
+msgstr ""
+
+#: Reglages.form:1073
+msgid "Check"
+msgstr ""
+
+#: Reglages.form:1084
+msgid "Check every"
+msgstr ""
+
+#: Reglages.form:1028
+msgid "Check Mail"
+msgstr ""
+
+#: Demon.module:265
+msgid "Check Mail: An unexpected error has occurred."
+msgstr ""
+
+#: Reglages.form:397
+msgid "Childhood"
+msgstr ""
+
+#: Reglages.form:335
+msgid "Choose a.desktop file !"
+msgstr ""
+
+#: ColorBigHour.form:77
+msgid "Choose Date color"
+msgstr ""
+
+#: ColorBigHour.form:67
+msgid "Choose Hour color"
+msgstr ""
+
+#: ColorBigHour.form:72
+msgid "Choose Minute color"
+msgstr ""
+
+#: Reglages.form:958
+msgid "Choose your color"
+msgstr ""
+
+#: Minuteur1.form:147
+msgid "Choose your timer alarm in the settings"
+msgstr ""
+
+#: Reglages.form:754
+msgid "Clear log"
+msgstr ""
+
+#: SecurityWhite.form:64
+msgid "Close"
+msgstr ""
+
+#: MailVerif.form:23
+msgid "Comprobar ahora"
+msgstr ""
+
+#: Reglages.class:1176
+msgid "Connection to the server successful."
+msgstr ""
+
+#: Reglages.form:831
+msgid "Custom shortcuts"
+msgstr ""
+
+#: Reglages.form:256
+msgid "Delay to go back to initial position"
+msgstr ""
+
+#: SecurityWhite.form:58
+msgid "Delete"
+msgstr ""
+
+#: frmAbout.form:71
+msgid "Description"
+msgstr ""
+
+#: Reglages.form:713
+msgid "Detect if the microphone is in use"
+msgstr ""
+
+#: Reglages.form:708
+msgid "Detect if the webcam is in use"
+msgstr ""
+
+#: Reglages.class:112
+msgid "Device name : "
+msgstr ""
+
+#: Floating.form:91 Reglages.form:947
+msgid "DuckDuckGo"
+msgstr ""
+
+#: Reglages.form:397
+msgid "Dynamic"
+msgstr ""
+
+#: Reglages.form:499
+msgid "Enables new sounds when the charger is plugged in or unplugged."
+msgstr ""
+
+#: Reglages.form:487
+msgid "Extend battery life"
+msgstr ""
+
+#: Reglages.form:397
+msgid "Fairyland"
+msgstr ""
+
+#: Reglages.form:786
+msgid "Floating Bar"
+msgstr ""
+
+#: FollowMe.form:42
+msgid "Follow me"
+msgstr ""
+
+#: FollowMe.form:106 frmAbout.form:120
+msgid "Follow Me"
+msgstr ""
+
+#: Reglages.form:512
+msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
+msgstr ""
+
+#: MailVerif.class:115
+msgid "From : "
+msgstr ""
+
+#: Floating.class:60
+msgid "Full screenshot"
+msgstr ""
+
+#: Floating.class:61
+msgid "Full With delay"
+msgstr ""
+
+#: Reglages.form:224
+msgid "General"
+msgstr ""
+
+#: Reglages.form:272
+msgid "Glass"
+msgstr ""
+
+#: Floating.form:106 Reglages.form:947
+msgid "Google"
+msgstr ""
+
+#: FollowMe.form:127
+msgid "https://zengdev.com"
+msgstr ""
+
+#: Reglages.form:1274
+msgid "Immutable mode"
+msgstr ""
+
+#: Reglages.form:1157
+msgid "Intervalo entre comprobaciones"
+msgstr ""
+
+#: Demon.module:99
+msgid "It is recommended to unplug the charger."
+msgstr ""
+
+#: Floating.class:409
+msgid "Launch app"
+msgstr ""
+
+#: Demon.module:131
+msgid "Low battery !"
+msgstr ""
+
+#: Minuteur1.form:77
+msgid "M"
+msgstr ""
+
+#: Reglages.form:998
+msgid "Mail"
+msgstr ""
+
+#: Reglages.form:1068
+msgid "Mail app"
+msgstr ""
+
+#: NotifMailNew.form:88
+msgid "Mail from"
+msgstr ""
+
+#: MailVerif.class:45
+msgid "Mail information"
+msgstr ""
+
+#: NotifMailNew.form:59
+msgid "Mail start"
+msgstr ""
+
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr ""
+
+#: Floating.form:87 Island.form:41
+msgid "Menu1"
+msgstr ""
+
+#: Reglages.form:1091
+msgid "minutes"
+msgstr ""
+
+#: MailVerif.class:114 NotifMailNew.form:73
+msgid "New mail"
+msgstr ""
+
+#: Reglages.form:465
+msgid "Notification if battery is at 25%"
+msgstr ""
+
+#: Reglages.form:476
+msgid "Notification if battery is at 80%"
+msgstr ""
+
+#: Reglages.form:1208
+msgid "Notification sound"
+msgstr ""
+
+#: MailVerif.class:116
+msgid "Object : "
+msgstr ""
+
+#: Floating.class:65
+msgid "OCR"
+msgstr ""
+
+#: Demon.module:132
+msgid "Only 25% remaining. Plug in the charger."
+msgstr ""
+
+#: NotifMailNew.form:64
+msgid "Open your mailbox"
+msgstr ""
+
+#: Reglages.form:1053
+msgid "Password"
+msgstr ""
+
+#: Minuteur1.class:121
+msgid "Please select minute / second"
+msgstr ""
+
+#: Reglages.form:1058
+msgid "Port"
+msgstr ""
+
+#: MailVerif.form:35
+msgid "Preferencias"
+msgstr ""
+
+#: Island.form:63
+msgid "Quit"
+msgstr ""
+
+#: Floating.form:116 Reglages.form:947
+msgid "Qwant"
+msgstr ""
+
+#: Reglages.form:986
+msgid "Reset"
+msgstr ""
+
+#: Reglages.form:1251
+msgid "Rock-Solid Immutable System"
+msgstr ""
+
+#: Reglages.form:1225
+msgid "RSIS"
+msgstr ""
+
+#: Minuteur1.form:84
+msgid "S"
+msgstr ""
+
+#: MailVerif.form:41
+msgid "Salir"
+msgstr ""
+
+#: Reglages.form:936
+msgid "Save"
+msgstr ""
+
+#: Floating.class:64
+msgid "Screen scroll"
+msgstr ""
+
+#: Floating.class:63
+msgid "Screen video record"
+msgstr ""
+
+#: Reglages.form:941
+msgid "Search engine"
+msgstr ""
+
+#: Reglages.form:660
+msgid "Security"
+msgstr ""
+
+#: SecurityWhite.form:70
+msgid "Security white list"
+msgstr ""
+
+#: Reglages.form:737
+msgid "See file with file manager"
+msgstr ""
+
+#: Reglages.class:1268
+msgid "See white liste"
+msgstr ""
+
+#: Floating.class:62
+msgid "Select window"
+msgstr ""
+
+#: Reglages.form:1043
+msgid "Server"
+msgstr ""
+
+#: Reglages.form:530
+msgid "Session"
+msgstr ""
+
+#: Reglages.form:643
+msgid "Session auto Lock & Unlock"
+msgstr ""
+
+#: Island.form:53
+msgid "Settings"
+msgstr ""
+
+#: Reglages.form:1376
+msgid "Show status icon on Top Island when RSIS is disabled "
+msgstr ""
+
+#: Reglages.form:575
+msgid "Signal strength"
+msgstr ""
+
+#: Reglages.form:285
+msgid "Smart"
+msgstr ""
+
+#: Floating.form:101 Reglages.form:947
+msgid "Sogou"
+msgstr ""
+
+#: Reglages.form:1078
+msgid "SSL / TLS"
+msgstr ""
+
+#: Reglages.form:251
+msgid "Stacking"
+msgstr ""
+
+#: frmAbout.form:98
+msgid "Support Me ;)"
+msgstr ""
+
+#: Donate.form:48
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr ""
+
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr ""
+
+#: Reglages.form:266
+msgid "Theme"
+msgstr ""
+
+#: Reglages.class:1502
+msgid "The stability and security of your system is not optimal !"
+msgstr ""
+
+#: Minuteur1.class:76
+msgid "The timer is finished."
+msgstr ""
+
+#: BatteryNotifNew.form:43 ColorBigHour.form:48 Island.form:45 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:363
+msgid "Timer"
+msgstr ""
+
+#: Minuteur1.form:149 Reglages.form:402
+msgid "Timer alarm"
+msgstr ""
+
+#: Minuteur1.class:23
+msgid "Timer alarm : "
+msgstr ""
+
+#: .project:1 Donate.form:41 frmAbout.form:50
+msgid "Top Island"
+msgstr ""
+
+#: frmAbout.form:78
+msgid "Top Island Specially developed for Deepin 25."
+msgstr ""
+
+#: .project:2
+msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
+msgstr ""
+
+#: Reglages.form:974
+msgid "Transparency"
+msgstr ""
+
+#: Reglages.form:261
+msgid "Transparency of Top Island"
+msgstr ""
+
+#: Reglages.class:1183
+msgid "Unable to connect to the server. Please check your details."
+msgstr ""
+
+#: Reglages.form:1048
+msgid "User"
+msgstr ""
+
+#: frmAbout.form:57
+msgid "Version"
+msgstr ""
+
+#: Floating.class:404
+msgid "With delay"
+msgstr ""
+
+#: Reglages.form:1267
+msgid "Writable status"
+msgstr ""
+
+#: FollowMe.form:71
+msgid "X"
+msgstr ""
+
+#: Reglages.class:1497
+msgid "Your system stability and security is optimal."
+msgstr ""
+
