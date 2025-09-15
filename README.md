@@ -1,4 +1,4 @@
-Language files for my applications for Deepin Linux.
+Language files for Top Island for Deepin Linux.
 
 Website : https://zengdev.com
 
