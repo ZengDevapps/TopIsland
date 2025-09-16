@@ -2,16 +2,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-15 09:53 UTC\n"
+"PO-Revision-Date: 2025-09-16 12:00 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: Demon.module:252
-msgid "\"Nuevo correo de "
-msgstr ""
 
 #: Demon.module:98
 msgid "% charged !"
@@ -69,7 +65,7 @@ msgstr ""
 msgid "Add to white list"
 msgstr ""
 
-#: Reglages.class:1256
+#: Reglages.class:1261
 msgid "Add to white liste"
 msgstr ""
 
@@ -151,10 +147,6 @@ msgstr ""
 
 #: Reglages.form:1028
 msgid "Check Mail"
-msgstr ""
-
-#: Demon.module:265
-msgid "Check Mail: An unexpected error has occurred."
 msgstr ""
 
 #: Reglages.form:397
@@ -269,11 +261,11 @@ msgstr ""
 msgid "From : "
 msgstr ""
 
-#: Floating.class:60
+#: Floating.class:65
 msgid "Full screenshot"
 msgstr ""
 
-#: Floating.class:61
+#: Floating.class:66
 msgid "Full With delay"
 msgstr ""
 
@@ -305,7 +297,7 @@ msgstr ""
 msgid "It is recommended to unplug the charger."
 msgstr ""
 
-#: Floating.class:409
+#: Floating.class:414
 msgid "Launch app"
 msgstr ""
 
@@ -369,7 +361,7 @@ msgstr ""
 msgid "Object : "
 msgstr ""
 
-#: Floating.class:65
+#: Floating.class:70
 msgid "OCR"
 msgstr ""
 
@@ -429,11 +421,11 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: Floating.class:64
+#: Floating.class:69
 msgid "Screen scroll"
 msgstr ""
 
-#: Floating.class:63
+#: Floating.class:68
 msgid "Screen video record"
 msgstr ""
 
@@ -453,11 +445,11 @@ msgstr ""
 msgid "See file with file manager"
 msgstr ""
 
-#: Reglages.class:1268
+#: Reglages.class:1273
 msgid "See white liste"
 msgstr ""
 
-#: Floating.class:62
+#: Floating.class:67
 msgid "Select window"
 msgstr ""
 
@@ -517,7 +509,7 @@ msgstr ""
 msgid "Theme"
 msgstr ""
 
-#: Reglages.class:1502
+#: Reglages.class:1511
 msgid "The stability and security of your system is not optimal !"
 msgstr ""
 
@@ -569,7 +561,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: Floating.class:404
+#: Floating.class:409
 msgid "With delay"
 msgstr ""
 
@@ -581,7 +573,7 @@ msgstr ""
 msgid "X"
 msgstr ""
 
-#: Reglages.class:1497
+#: Reglages.class:1506
 msgid "Your system stability and security is optimal."
 msgstr ""
 
