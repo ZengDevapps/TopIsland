@@ -2,70 +2,50 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-16 12:00 UTC\n"
+"PO-Revision-Date: 2025-09-17 15:12 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: Demon.module:98
+#: Demon.module:101
 msgid "% charged !"
 msgstr ""
 
-#: Reglages.form:608
+#: Reglages.form:666
 msgid "(0 = very close to 10 = very distant) See info icon for more information"
 msgstr ""
 
-#: Reglages.form:1364
-msgid "."
+#: frmAbout.form:140
+msgid "(Changelog)"
 msgstr ""
 
 #: Notif.form:35
 msgid "...message"
 msgstr ""
 
-#: Reglages.form:635
+#: Reglages.form:693
 msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
 msgstr ""
 
-#: frmAbout.form:64
-msgid "1.0.0"
-msgstr ""
-
-#: Reglages.form:1158
-msgid "2"
-msgstr ""
-
-#: Reglages.form:1172
-msgid "995"
-msgstr ""
-
-#: Minuteur1.form:70
-msgid ":"
-msgstr ""
-
-#: Island.form:58
+#: Island.form:65
 msgid "About"
 msgstr ""
 
-#: Reglages.form:285
+#: Reglages.form:293
 msgid "Above"
 msgstr ""
 
-#: MailVerif.form:29
-msgid "Abrir Correo"
-msgstr ""
-
-#: Reglages.form:726
+#: Reglages.form:784
 msgid "Access log"
 msgstr ""
 
-#: Reglages.form:742
+#: Reglages.form:800
 msgid "Add to white list"
 msgstr ""
 
-#: Reglages.class:1261
+#: Reglages.class:1280
 msgid "Add to white liste"
 msgstr ""
 
@@ -77,19 +57,15 @@ msgstr ""
 msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
 msgstr ""
 
-#: Reglages.form:1129
+#: Reglages.form:1187
 msgid "Auto close notification"
 msgstr ""
 
-#: Reglages.form:601
+#: Reglages.form:659
 msgid "Auto lock and unlock (dBm)"
 msgstr ""
 
-#: Floating.form:96 Reglages.form:947
-msgid "Baidu"
-msgstr ""
-
-#: Reglages.form:427
+#: Reglages.form:485
 msgid "Battery"
 msgstr ""
 
@@ -97,63 +73,47 @@ msgstr ""
 msgid "Battery information"
 msgstr ""
 
-#: Reglages.form:460
+#: Reglages.form:518
 msgid "Battery sound"
 msgstr ""
 
-#: Reglages.form:285
+#: Reglages.form:293
 msgid "Below"
 msgstr ""
 
-#: Reglages.form:340
+#: Reglages.form:348
 msgid "Big hour widget on your desktop"
 msgstr ""
 
-#: Floating.form:111 Reglages.form:947
-msgid "Bing"
-msgstr ""
-
-#: Reglages.form:272
+#: Reglages.form:280
 msgid "Black"
 msgstr ""
 
-#: FollowMe.form:80
-msgid "BlueSky"
-msgstr ""
-
-#: Reglages.form:596
+#: Reglages.form:654
 msgid "Bluetooth device"
 msgstr ""
 
-#: Reglages.form:319
+#: Reglages.form:327
 msgid "Calendar app"
 msgstr ""
 
-#: Reglages.form:397
-msgid "Candy"
-msgstr ""
-
-#: Reglages.form:351
+#: Reglages.form:359
 msgid "Change color"
 msgstr ""
 
-#: Reglages.form:1073
+#: Reglages.form:1131
 msgid "Check"
 msgstr ""
 
-#: Reglages.form:1084
+#: Reglages.form:1142
 msgid "Check every"
 msgstr ""
 
-#: Reglages.form:1028
+#: Reglages.form:1086
 msgid "Check Mail"
 msgstr ""
 
-#: Reglages.form:397
-msgid "Childhood"
-msgstr ""
-
-#: Reglages.form:335
+#: Reglages.form:343
 msgid "Choose a.desktop file !"
 msgstr ""
 
@@ -169,7 +129,7 @@ msgstr ""
 msgid "Choose Minute color"
 msgstr ""
 
-#: Reglages.form:958
+#: Reglages.form:1016
 msgid "Choose your color"
 msgstr ""
 
@@ -177,31 +137,31 @@ msgstr ""
 msgid "Choose your timer alarm in the settings"
 msgstr ""
 
-#: Reglages.form:754
+#: Reglages.form:812
 msgid "Clear log"
 msgstr ""
 
-#: SecurityWhite.form:64
+#: ReminderBox.form:166 SecurityWhite.form:63
 msgid "Close"
 msgstr ""
 
-#: MailVerif.form:23
-msgid "Comprobar ahora"
-msgstr ""
-
-#: Reglages.class:1176
+#: Reglages.class:1195
 msgid "Connection to the server successful."
 msgstr ""
 
-#: Reglages.form:831
+#: Reglages.form:889
 msgid "Custom shortcuts"
 msgstr ""
 
-#: Reglages.form:256
+#: Reglages.form:455 ReminderNotif.class:13
+msgid "Default"
+msgstr ""
+
+#: Reglages.form:264
 msgid "Delay to go back to initial position"
 msgstr ""
 
-#: SecurityWhite.form:58
+#: ReminderBox.form:156 SecurityWhite.form:58
 msgid "Delete"
 msgstr ""
 
@@ -209,40 +169,36 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: Reglages.form:713
+#: ReminderBox.form:89
+msgid "Description here"
+msgstr ""
+
+#: ReminderBox.class:74
+msgid "Description here..."
+msgstr ""
+
+#: Reglages.form:771
 msgid "Detect if the microphone is in use"
 msgstr ""
 
-#: Reglages.form:708
+#: Reglages.form:766
 msgid "Detect if the webcam is in use"
 msgstr ""
 
-#: Reglages.class:112
+#: Reglages.class:127
 msgid "Device name : "
 msgstr ""
 
-#: Floating.form:91 Reglages.form:947
-msgid "DuckDuckGo"
-msgstr ""
-
-#: Reglages.form:397
-msgid "Dynamic"
-msgstr ""
-
-#: Reglages.form:499
+#: Reglages.form:557
 msgid "Enables new sounds when the charger is plugged in or unplugged."
 msgstr ""
 
-#: Reglages.form:487
+#: Reglages.form:545
 msgid "Extend battery life"
 msgstr ""
 
-#: Reglages.form:397
-msgid "Fairyland"
-msgstr ""
-
-#: Reglages.form:786
-msgid "Floating Bar"
+#: Floating.form:466
+msgid "Folders"
 msgstr ""
 
 #: FollowMe.form:42
@@ -253,7 +209,7 @@ msgstr ""
 msgid "Follow Me"
 msgstr ""
 
-#: Reglages.form:512
+#: Reglages.form:570
 msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
 msgstr ""
 
@@ -269,51 +225,39 @@ msgstr ""
 msgid "Full With delay"
 msgstr ""
 
-#: Reglages.form:224
+#: Reglages.form:232
 msgid "General"
 msgstr ""
 
-#: Reglages.form:272
-msgid "Glass"
+#: ReminderNotif.form:63
+msgid "if your smartphone is paired with your system, as soon as your smartphone is disconnected or too far away from your computer, your session will lock. As soon as the connection is reestablished or you are next to your computer, the session will unlock."
 msgstr ""
 
-#: Floating.form:106 Reglages.form:947
-msgid "Google"
-msgstr ""
-
-#: FollowMe.form:127
-msgid "https://zengdev.com"
-msgstr ""
-
-#: Reglages.form:1274
+#: Reglages.form:1332
 msgid "Immutable mode"
 msgstr ""
 
-#: Reglages.form:1157
+#: Reglages.form:1215
 msgid "Intervalo entre comprobaciones"
 msgstr ""
 
-#: Demon.module:99
+#: Demon.module:102
 msgid "It is recommended to unplug the charger."
 msgstr ""
 
-#: Floating.class:414
+#: Floating.class:413
 msgid "Launch app"
 msgstr ""
 
-#: Demon.module:131
+#: Demon.module:134
 msgid "Low battery !"
 msgstr ""
 
-#: Minuteur1.form:77
-msgid "M"
-msgstr ""
-
-#: Reglages.form:998
+#: Reglages.form:1056
 msgid "Mail"
 msgstr ""
 
-#: Reglages.form:1068
+#: Reglages.form:1126
 msgid "Mail app"
 msgstr ""
 
@@ -329,15 +273,15 @@ msgstr ""
 msgid "Mail start"
 msgstr ""
 
-#: FollowMe.form:89
-msgid "Mastodon"
+#: MailVerif.form:14
+msgid "MailVerif"
 msgstr ""
 
-#: Floating.form:87 Island.form:41
-msgid "Menu1"
+#: ReminderBox.form:106
+msgid "Maximum 145 characters for optimal display"
 msgstr ""
 
-#: Reglages.form:1091
+#: Reglages.form:1149
 msgid "minutes"
 msgstr ""
 
@@ -345,15 +289,15 @@ msgstr ""
 msgid "New mail"
 msgstr ""
 
-#: Reglages.form:465
+#: Reglages.form:523
 msgid "Notification if battery is at 25%"
 msgstr ""
 
-#: Reglages.form:476
+#: Reglages.form:534
 msgid "Notification if battery is at 80%"
 msgstr ""
 
-#: Reglages.form:1208
+#: Reglages.form:460
 msgid "Notification sound"
 msgstr ""
 
@@ -365,7 +309,7 @@ msgstr ""
 msgid "OCR"
 msgstr ""
 
-#: Demon.module:132
+#: Demon.module:135
 msgid "Only 25% remaining. Plug in the charger."
 msgstr ""
 
@@ -373,7 +317,7 @@ msgstr ""
 msgid "Open your mailbox"
 msgstr ""
 
-#: Reglages.form:1053
+#: Reglages.form:1111
 msgid "Password"
 msgstr ""
 
@@ -381,71 +325,67 @@ msgstr ""
 msgid "Please select minute / second"
 msgstr ""
 
-#: Reglages.form:1058
+#: Reglages.form:1116
 msgid "Port"
 msgstr ""
 
-#: MailVerif.form:35
-msgid "Preferencias"
-msgstr ""
-
-#: Island.form:63
+#: Island.form:70
 msgid "Quit"
 msgstr ""
 
-#: Floating.form:116 Reglages.form:947
-msgid "Qwant"
+#: Floating.form:480 Island.form:52 Reglages.form:446
+msgid "Reminder"
 msgstr ""
 
-#: Reglages.form:986
+#: Island.form:186
+msgid "Reminder active"
+msgstr ""
+
+#: Reglages.form:1044
 msgid "Reset"
 msgstr ""
 
-#: Reglages.form:1251
-msgid "Rock-Solid Immutable System"
-msgstr ""
-
-#: Reglages.form:1225
-msgid "RSIS"
-msgstr ""
-
-#: Minuteur1.form:84
-msgid "S"
-msgstr ""
-
-#: MailVerif.form:41
+#: MailVerif.form:42
 msgid "Salir"
 msgstr ""
 
-#: Reglages.form:936
+#: Reglages.form:994
 msgid "Save"
+msgstr ""
+
+#: ReminderBox.form:63
+msgid "Schedule"
 msgstr ""
 
 #: Floating.class:69
 msgid "Screen scroll"
 msgstr ""
 
+#: Floating.form:473
+msgid "Screenshot"
+msgstr ""
+
 #: Floating.class:68
 msgid "Screen video record"
 msgstr ""
 
-#: Reglages.form:941
+#: Reglages.form:999
 msgid "Search engine"
 msgstr ""
 
-#: Reglages.form:660
+#: Reglages.form:718
 msgid "Security"
 msgstr ""
 
-#: SecurityWhite.form:70
+#: SecurityWhite.form:71
 msgid "Security white list"
 msgstr ""
 
-#: Reglages.form:737
+#: Reglages.form:795
 msgid "See file with file manager"
 msgstr ""
 
-#: Reglages.class:1273
+#: Reglages.class:1292
 msgid "See white liste"
 msgstr ""
 
@@ -453,43 +393,35 @@ msgstr ""
 msgid "Select window"
 msgstr ""
 
-#: Reglages.form:1043
+#: Reglages.form:1101
 msgid "Server"
 msgstr ""
 
-#: Reglages.form:530
+#: Reglages.form:588
 msgid "Session"
 msgstr ""
 
-#: Reglages.form:643
+#: Reglages.form:701
 msgid "Session auto Lock & Unlock"
 msgstr ""
 
-#: Island.form:53
+#: Floating.form:494 Island.form:60
 msgid "Settings"
 msgstr ""
 
-#: Reglages.form:1376
+#: Reglages.form:1434
 msgid "Show status icon on Top Island when RSIS is disabled "
 msgstr ""
 
-#: Reglages.form:575
+#: Reglages.form:633
 msgid "Signal strength"
 msgstr ""
 
-#: Reglages.form:285
-msgid "Smart"
-msgstr ""
-
-#: Floating.form:101 Reglages.form:947
-msgid "Sogou"
-msgstr ""
-
-#: Reglages.form:1078
+#: Reglages.form:1136
 msgid "SSL / TLS"
 msgstr ""
 
-#: Reglages.form:251
+#: Reglages.form:259
 msgid "Stacking"
 msgstr ""
 
@@ -501,15 +433,11 @@ msgstr ""
 msgid "Support me to offer free programs for Deepin Linux"
 msgstr ""
 
-#: FollowMe.form:116
-msgid "Telegram"
-msgstr ""
-
-#: Reglages.form:266
+#: Reglages.form:274
 msgid "Theme"
 msgstr ""
 
-#: Reglages.class:1511
+#: Reglages.class:1530
 msgid "The stability and security of your system is not optimal !"
 msgstr ""
 
@@ -517,11 +445,11 @@ msgstr ""
 msgid "The timer is finished."
 msgstr ""
 
-#: BatteryNotifNew.form:43 ColorBigHour.form:48 Island.form:45 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:363
+#: BatteryNotifNew.form:43 ColorBigHour.form:48 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:390 ReminderNotif.form:43
 msgid "Timer"
 msgstr ""
 
-#: Minuteur1.form:149 Reglages.form:402
+#: Minuteur1.form:149 Reglages.form:404
 msgid "Timer alarm"
 msgstr ""
 
@@ -529,8 +457,8 @@ msgstr ""
 msgid "Timer alarm : "
 msgstr ""
 
-#: .project:1 Donate.form:41 frmAbout.form:50
-msgid "Top Island"
+#: ReminderBox.form:137
+msgid "Title"
 msgstr ""
 
 #: frmAbout.form:78
@@ -541,39 +469,39 @@ msgstr ""
 msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
 msgstr ""
 
-#: Reglages.form:974
+#: Reglages.form:1032
 msgid "Transparency"
 msgstr ""
 
-#: Reglages.form:261
+#: Reglages.form:269
 msgid "Transparency of Top Island"
 msgstr ""
 
-#: Reglages.class:1183
+#: Reglages.class:1202
 msgid "Unable to connect to the server. Please check your details."
 msgstr ""
 
-#: Reglages.form:1048
+#: Reglages.form:1106
 msgid "User"
 msgstr ""
 
-#: frmAbout.form:57
+#: Reglages.form:371
+msgid "Utilities"
+msgstr ""
+
+#: frmAbout.form:58
 msgid "Version"
 msgstr ""
 
-#: Floating.class:409
+#: Floating.class:408
 msgid "With delay"
 msgstr ""
 
-#: Reglages.form:1267
+#: Reglages.form:1325
 msgid "Writable status"
 msgstr ""
 
-#: FollowMe.form:71
-msgid "X"
-msgstr ""
-
-#: Reglages.class:1506
+#: Reglages.class:1525
 msgid "Your system stability and security is optimal."
 msgstr ""
 
