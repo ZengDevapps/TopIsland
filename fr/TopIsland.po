@@ -23,7 +23,7 @@ msgstr "(Changelog)"
 
 #: Notif.form:35
 msgid "...message"
-msgstr ""
+msgstr "...message"
 
 #: Reglages.form:693
 msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
@@ -31,7 +31,7 @@ msgstr "\t0 dBm\t0-1 mètre\tTrès proche, contact direct\n\t1 dBm\t1-2 mètres\
 
 #: Island.form:65
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 #: Reglages.form:293
 msgid "Above"
@@ -39,43 +39,43 @@ msgstr "Au-dessus"
 
 #: Reglages.form:784
 msgid "Access log"
-msgstr ""
+msgstr "Journal d'accès"
 
 #: Reglages.form:800
 msgid "Add to white list"
-msgstr ""
+msgstr "Ajouter à la liste blanche"
 
 #: Reglages.class:1280
 msgid "Add to white liste"
-msgstr ""
+msgstr "Ajouter à la liste blanche"
 
 #: MailVerif.class:64
 msgid "An error occurred. Please verify your connection details or your internet access."
-msgstr ""
+msgstr "Une erreur s'est produite. Veuillez vérifier vos informations de connexion ou votre accès Internet."
 
 #: MailVerif.class:136
 msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
-msgstr ""
+msgstr "Une erreur inattendue s'est produite. Veuillez vérifier vos informations de connexion et votre accès Internet."
 
 #: Reglages.form:1187
 msgid "Auto close notification"
-msgstr ""
+msgstr "Notification de fermeture automatique"
 
 #: Reglages.form:659
 msgid "Auto lock and unlock (dBm)"
-msgstr ""
+msgstr "Verrouillage et déverrouillage automatiques (dBm)"
 
 #: Reglages.form:485
 msgid "Battery"
-msgstr ""
+msgstr "Batterie"
 
 #: BatteryNotifNew.form:65 NotifAlert.form:58
 msgid "Battery information"
-msgstr ""
+msgstr "Informations sur la batterie"
 
 #: Reglages.form:518
 msgid "Battery sound"
-msgstr ""
+msgstr "Son de la batterie"
 
 #: Reglages.form:293
 msgid "Below"
@@ -83,75 +83,75 @@ msgstr "En dessous"
 
 #: Reglages.form:348
 msgid "Big hour widget on your desktop"
-msgstr ""
+msgstr "Widget Big Hour sur votre bureau"
 
 #: Reglages.form:280
 msgid "Black"
-msgstr ""
+msgstr "Noir"
 
 #: Reglages.form:654
 msgid "Bluetooth device"
-msgstr ""
+msgstr "appareil Bluetooth"
 
 #: Reglages.form:327
 msgid "Calendar app"
-msgstr ""
+msgstr "Application Calendrier"
 
 #: Reglages.form:359
 msgid "Change color"
-msgstr ""
+msgstr "Changer de couleur"
 
 #: Reglages.form:1131
 msgid "Check"
-msgstr ""
+msgstr "Vérifier"
 
 #: Reglages.form:1142
 msgid "Check every"
-msgstr ""
+msgstr "Vérifiez chaque"
 
 #: Reglages.form:1086
 msgid "Check Mail"
-msgstr ""
+msgstr "Vérifier le courrier"
 
 #: Reglages.form:343
 msgid "Choose a.desktop file !"
-msgstr ""
+msgstr "Choisissez un fichier .desktop !"
 
 #: ColorBigHour.form:77
 msgid "Choose Date color"
-msgstr ""
+msgstr "Choisissez la couleur de la date"
 
 #: ColorBigHour.form:67
 msgid "Choose Hour color"
-msgstr ""
+msgstr "Choisissez la couleur de l'heure"
 
 #: ColorBigHour.form:72
 msgid "Choose Minute color"
-msgstr ""
+msgstr "Choisissez la couleur des minutes"
 
 #: Reglages.form:1016
 msgid "Choose your color"
-msgstr ""
+msgstr "Choisissez votre couleur"
 
 #: Minuteur1.form:147
 msgid "Choose your timer alarm in the settings"
-msgstr ""
+msgstr "Choisissez votre alarme de minuterie dans les paramètres"
 
 #: Reglages.form:812
 msgid "Clear log"
-msgstr ""
+msgstr "Effacer le journal"
 
 #: ReminderBox.form:166 SecurityWhite.form:63
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: Reglages.class:1195
 msgid "Connection to the server successful."
-msgstr ""
+msgstr "Connexion au serveur réussie."
 
 #: Reglages.form:889
 msgid "Custom shortcuts"
-msgstr ""
+msgstr "Raccourcis personnalisés"
 
 #: Reglages.form:455 ReminderNotif.class:13
 msgid "Default"
@@ -159,15 +159,15 @@ msgstr "Défaut"
 
 #: Reglages.form:264
 msgid "Delay to go back to initial position"
-msgstr ""
+msgstr "Délai pour revenir à la position initiale"
 
 #: ReminderBox.form:156 SecurityWhite.form:58
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: frmAbout.form:71
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: ReminderBox.form:89
 msgid "Description here"
@@ -179,23 +179,23 @@ msgstr "Description ici..."
 
 #: Reglages.form:771
 msgid "Detect if the microphone is in use"
-msgstr ""
+msgstr "Détecter si le microphone est utilisé"
 
 #: Reglages.form:766
 msgid "Detect if the webcam is in use"
-msgstr ""
+msgstr "Détecter si la webcam est en cours d'utilisation"
 
 #: Reglages.class:127
 msgid "Device name : "
-msgstr ""
+msgstr "Nom de l'appareil :"
 
 #: Reglages.form:557
 msgid "Enables new sounds when the charger is plugged in or unplugged."
-msgstr ""
+msgstr "Active de nouveaux sons lorsque le chargeur est branché ou débranché."
 
 #: Reglages.form:545
 msgid "Extend battery life"
-msgstr ""
+msgstr "Prolonger la durée de vie de la batterie"
 
 #: Floating.form:466
 msgid "Folders"
