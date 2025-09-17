@@ -1,0 +1,507 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TopIsland 3.20.4\n"
+"PO-Revision-Date: 2025-09-17 15:12 UTC\n"
+"Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Demon.module:101
+msgid "% charged !"
+msgstr "% chargé !"
+
+#: Reglages.form:666
+msgid "(0 = very close to 10 = very distant) See info icon for more information"
+msgstr "(0 = très proche, 10 = très éloigné) Voir l'icône d'information."
+
+#: frmAbout.form:140
+msgid "(Changelog)"
+msgstr "(Changelog)"
+
+#: Notif.form:35
+msgid "...message"
+msgstr "...message"
+
+#: Reglages.form:693
+msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
+msgstr "\t0 dBm\t0-1 mètre\tTrès proche, contact direct\n\t1 dBm\t1-2 mètres\tProximité immédiate\ n\t2 dBm\t2-3 mètres\tTrès proche\n\t3 dBm\t3-4 mètres\tProche\n\t4 dBm\t4-5 mètres\tDébut de dispersion\n\t5 dBm\t5-6 mètres\tSignal stable\ n\t6 dBm\t6-7 mètres\tDébut de l'atténuation\n\t7 dBm\t7-8 mètres\tSignal modéré\n\t8 dBm\t8-9 mètres\tSignal atténué\n\t9 dBm\t9-10 mètres\tSignal faible\n\t10 dBm\t10-11 mètres\tLimite de connexion"
+
+#: Island.form:65
+msgid "About"
+msgstr "À propos"
+
+#: Reglages.form:293
+msgid "Above"
+msgstr "Au-dessus"
+
+#: Reglages.form:784
+msgid "Access log"
+msgstr "Journal d'accès"
+
+#: Reglages.form:800
+msgid "Add to white list"
+msgstr "Ajouter à la liste blanche"
+
+#: Reglages.class:1280
+msgid "Add to white liste"
+msgstr "Ajouter à la liste blanche"
+
+#: MailVerif.class:64
+msgid "An error occurred. Please verify your connection details or your internet access."
+msgstr "Une erreur s'est produite. Veuillez vérifier vos informations de connexion ou votre accès Internet."
+
+#: MailVerif.class:136
+msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
+msgstr "Une erreur inattendue s'est produite. Veuillez vérifier vos informations de connexion et votre accès Internet."
+
+#: Reglages.form:1187
+msgid "Auto close notification"
+msgstr "Notification de fermeture automatique"
+
+#: Reglages.form:659
+msgid "Auto lock and unlock (dBm)"
+msgstr "Verrouillage et déverrouillage automatiques (dBm)"
+
+#: Reglages.form:485
+msgid "Battery"
+msgstr "Batterie"
+
+#: BatteryNotifNew.form:65 NotifAlert.form:58
+msgid "Battery information"
+msgstr "Informations sur la batterie"
+
+#: Reglages.form:518
+msgid "Battery sound"
+msgstr "Son de la batterie"
+
+#: Reglages.form:293
+msgid "Below"
+msgstr "En dessous"
+
+#: Reglages.form:348
+msgid "Big hour widget on your desktop"
+msgstr "Widget Big Hour sur votre bureau"
+
+#: Reglages.form:280
+msgid "Black"
+msgstr "Noir"
+
+#: Reglages.form:654
+msgid "Bluetooth device"
+msgstr "appareil Bluetooth"
+
+#: Reglages.form:327
+msgid "Calendar app"
+msgstr "Application Calendrier"
+
+#: Reglages.form:359
+msgid "Change color"
+msgstr "Changer de couleur"
+
+#: Reglages.form:1131
+msgid "Check"
+msgstr "Vérifier"
+
+#: Reglages.form:1142
+msgid "Check every"
+msgstr "Vérifiez chaque"
+
+#: Reglages.form:1086
+msgid "Check Mail"
+msgstr "Vérifier le courrier"
+
+#: Reglages.form:343
+msgid "Choose a.desktop file !"
+msgstr "Choisissez un fichier .desktop !"
+
+#: ColorBigHour.form:77
+msgid "Choose Date color"
+msgstr "Choisissez la couleur de la date"
+
+#: ColorBigHour.form:67
+msgid "Choose Hour color"
+msgstr "Choisissez la couleur de l'heure"
+
+#: ColorBigHour.form:72
+msgid "Choose Minute color"
+msgstr "Choisissez la couleur des minutes"
+
+#: Reglages.form:1016
+msgid "Choose your color"
+msgstr "Choisissez votre couleur"
+
+#: Minuteur1.form:147
+msgid "Choose your timer alarm in the settings"
+msgstr "Choisissez votre alarme de minuterie dans les paramètres"
+
+#: Reglages.form:812
+msgid "Clear log"
+msgstr "Effacer le journal"
+
+#: ReminderBox.form:166 SecurityWhite.form:63
+msgid "Close"
+msgstr "Fermer"
+
+#: Reglages.class:1195
+msgid "Connection to the server successful."
+msgstr "Connexion au serveur réussie."
+
+#: Reglages.form:889
+msgid "Custom shortcuts"
+msgstr "Raccourcis personnalisés"
+
+#: Reglages.form:455 ReminderNotif.class:13
+msgid "Default"
+msgstr "Défaut"
+
+#: Reglages.form:264
+msgid "Delay to go back to initial position"
+msgstr "Délai pour revenir à la position initiale"
+
+#: ReminderBox.form:156 SecurityWhite.form:58
+msgid "Delete"
+msgstr "Supprimer"
+
+#: frmAbout.form:71
+msgid "Description"
+msgstr "Description"
+
+#: ReminderBox.form:89
+msgid "Description here"
+msgstr "Description ici"
+
+#: ReminderBox.class:74
+msgid "Description here..."
+msgstr "Description ici..."
+
+#: Reglages.form:771
+msgid "Detect if the microphone is in use"
+msgstr "Détecter si le microphone est utilisé"
+
+#: Reglages.form:766
+msgid "Detect if the webcam is in use"
+msgstr "Détecter si la webcam est en cours d'utilisation"
+
+#: Reglages.class:127
+msgid "Device name : "
+msgstr "Nom de l'appareil :"
+
+#: Reglages.form:557
+msgid "Enables new sounds when the charger is plugged in or unplugged."
+msgstr "Active de nouveaux sons lorsque le chargeur est branché ou débranché."
+
+#: Reglages.form:545
+msgid "Extend battery life"
+msgstr "Prolonger la durée de vie de la batterie"
+
+#: Floating.form:466
+msgid "Folders"
+msgstr "Dossiers"
+
+#: FollowMe.form:42
+msgid "Follow me"
+msgstr "Suivez-moi"
+
+#: FollowMe.form:106 frmAbout.form:120
+msgid "Follow Me"
+msgstr "Suivez-moi"
+
+#: Reglages.form:570
+msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
+msgstr "Pour de meilleures performances, pensez à désactiver les sons pour « Insérer », « Supprimer » et « Batterie faible ».\nCliquez sur le petit bouton Paramètres pour accéder au Centre de contrôle Deepin dans la section Effets sonores."
+
+#: MailVerif.class:115
+msgid "From : "
+msgstr "Depuis : "
+
+#: Floating.class:65
+msgid "Full screenshot"
+msgstr "Capture d'écran complète"
+
+#: Floating.class:66
+msgid "Full With delay"
+msgstr "Complet avec retard"
+
+#: Reglages.form:232
+msgid "General"
+msgstr "Général"
+
+#: ReminderNotif.form:63
+msgid "if your smartphone is paired with your system, as soon as your smartphone is disconnected or too far away from your computer, your session will lock. As soon as the connection is reestablished or you are next to your computer, the session will unlock."
+msgstr "Si votre smartphone est couplé à votre système, dès que votre smartphone est déconnecté ou trop éloigné de votre ordinateur, votre session sera verrouillée. Dès que la connexion sera rétablie ou que vous serez à nouveau à proximité de votre ordinateur, la session sera déverrouillée."
+
+#: Reglages.form:1332
+msgid "Immutable mode"
+msgstr "Mode immuable"
+
+#: Reglages.form:1215
+msgid "Intervalo entre comprobaciones"
+msgstr "Intervalle entre les travaux"
+
+#: Demon.module:102
+msgid "It is recommended to unplug the charger."
+msgstr "Il est recommandé de débrancher le chargeur."
+
+#: Floating.class:413
+msgid "Launch app"
+msgstr "Lancer l'application"
+
+#: Demon.module:134
+msgid "Low battery !"
+msgstr "Batterie faible !"
+
+#: Reglages.form:1056
+msgid "Mail"
+msgstr "Mail"
+
+#: Reglages.form:1126
+msgid "Mail app"
+msgstr "Application de messagerie"
+
+#: NotifMailNew.form:88
+msgid "Mail from"
+msgstr "Courrier de"
+
+#: MailVerif.class:45
+msgid "Mail information"
+msgstr "Informations par courrier"
+
+#: NotifMailNew.form:59
+msgid "Mail start"
+msgstr "Début du courrier"
+
+#: MailVerif.form:14
+msgid "MailVerif"
+msgstr "MailVerif"
+
+#: ReminderBox.form:106
+msgid "Maximum 145 characters for optimal display"
+msgstr "145 caractères maximum pour un affichage optimal"
+
+#: Reglages.form:1149
+msgid "minutes"
+msgstr "minutes"
+
+#: MailVerif.class:114 NotifMailNew.form:73
+msgid "New mail"
+msgstr "Nouveau mail"
+
+#: Reglages.form:523
+msgid "Notification if battery is at 25%"
+msgstr "Notification si la batterie est à 25 %"
+
+#: Reglages.form:534
+msgid "Notification if battery is at 80%"
+msgstr "Notification si la batterie est à 80%"
+
+#: Reglages.form:460
+msgid "Notification sound"
+msgstr "Son de notification"
+
+#: MailVerif.class:116
+msgid "Object : "
+msgstr "Objet : "
+
+#: Floating.class:70
+msgid "OCR"
+msgstr "OCR"
+
+#: Demon.module:135
+msgid "Only 25% remaining. Plug in the charger."
+msgstr "Il ne reste que 25 %. Branchez le chargeur."
+
+#: NotifMailNew.form:64
+msgid "Open your mailbox"
+msgstr "Ouvrez votre boîte aux lettres"
+
+#: Reglages.form:1111
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Minuteur1.class:121
+msgid "Please select minute / second"
+msgstr "Veuillez sélectionner les minutes / secondes"
+
+#: Reglages.form:1116
+msgid "Port"
+msgstr "Port"
+
+#: Island.form:70
+msgid "Quit"
+msgstr "Quitter"
+
+#: Floating.form:480 Island.form:52 Reglages.form:446
+msgid "Reminder"
+msgstr "Reminder"
+
+#: Island.form:186
+msgid "Reminder active"
+msgstr "Reminder active"
+
+#: Reglages.form:1044
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: MailVerif.form:42
+msgid "Salir"
+msgstr "Sortir"
+
+#: Reglages.form:994
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: ReminderBox.form:63
+msgid "Schedule"
+msgstr "Programmer"
+
+#: Floating.class:69
+msgid "Screen scroll"
+msgstr "Défilement de l'écran"
+
+#: Floating.form:473
+msgid "Screenshot"
+msgstr "Capture d'écran"
+
+#: Floating.class:68
+msgid "Screen video record"
+msgstr "Enregistrement vidéo de l'écran"
+
+#: Reglages.form:999
+msgid "Search engine"
+msgstr "Moteur de recherche"
+
+#: Reglages.form:718
+msgid "Security"
+msgstr "Sécurité"
+
+#: SecurityWhite.form:71
+msgid "Security white list"
+msgstr "Liste blanche de sécurité"
+
+#: Reglages.form:795
+msgid "See file with file manager"
+msgstr "Voir le fichier avec le gestionnaire de fichiers"
+
+#: Reglages.class:1292
+msgid "See white liste"
+msgstr "Voir la liste blanche"
+
+#: Floating.class:67
+msgid "Select window"
+msgstr "Sélectionner la fenêtre"
+
+#: Reglages.form:1101
+msgid "Server"
+msgstr "Serveur"
+
+#: Reglages.form:588
+msgid "Session"
+msgstr "Session"
+
+#: Reglages.form:701
+msgid "Session auto Lock & Unlock"
+msgstr "Verrouillage et déverrouillage automatiques de la session"
+
+#: Floating.form:494 Island.form:60
+msgid "Settings"
+msgstr "Paramètres"
+
+#: Reglages.form:1434
+msgid "Show status icon on Top Island when RSIS is disabled "
+msgstr "Afficher l'icône d'état sur l'îlot supérieur lorsque RSIS est désactivé"
+
+#: Reglages.form:633
+msgid "Signal strength"
+msgstr "Force du signal"
+
+#: Reglages.form:1136
+msgid "SSL / TLS"
+msgstr "SSL / TLS"
+
+#: Reglages.form:259
+msgid "Stacking"
+msgstr "Stacking"
+
+#: frmAbout.form:98
+msgid "Support Me ;)"
+msgstr "Soutenez-moi ;)"
+
+#: Donate.form:48
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr "Soutenez-moi pour proposer des programmes gratuits pour Deepin Linux"
+
+#: Reglages.form:274
+msgid "Theme"
+msgstr "Thème"
+
+#: Reglages.class:1530
+msgid "The stability and security of your system is not optimal !"
+msgstr "La stabilité et la sécurité de votre système ne sont pas optimales !"
+
+#: Minuteur1.class:76
+msgid "The timer is finished."
+msgstr "Le minuteur est terminé."
+
+#: BatteryNotifNew.form:43 ColorBigHour.form:48 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:390 ReminderNotif.form:43
+msgid "Timer"
+msgstr "Minuteur"
+
+#: Minuteur1.form:149 Reglages.form:404
+msgid "Timer alarm"
+msgstr "Alarme de minuterie"
+
+#: Minuteur1.class:23
+msgid "Timer alarm : "
+msgstr "Alarme de minuterie :"
+
+#: ReminderBox.form:137
+msgid "Title"
+msgstr "Titre"
+
+#: frmAbout.form:78
+msgid "Top Island Specially developed for Deepin 25."
+msgstr "Top Island Spécialement développé pour Deepin 25."
+
+#: .project:2
+msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
+msgstr "Top Island Spécialement développé pour Deepin 25.\nPlusieurs utilitaires pratiques pour votre système Deepin :\n- Minuterie\n- Notification par e-mail\n- Sécurité\n- Système immuable à toute épreuve\n- Barre flottante\nEt d'autres utilitaires"
+
+#: Reglages.form:1032
+msgid "Transparency"
+msgstr "Transparence"
+
+#: Reglages.form:269
+msgid "Transparency of Top Island"
+msgstr "Transparence de Top Island"
+
+#: Reglages.class:1202
+msgid "Unable to connect to the server. Please check your details."
+msgstr "Impossible de se connecter au serveur. Veuillez vérifier vos informations."
+
+#: Reglages.form:1106
+msgid "User"
+msgstr "Utilisateur"
+
+#: Reglages.form:371
+msgid "Utilities"
+msgstr "Utilitaires"
+
+#: frmAbout.form:58
+msgid "Version"
+msgstr "Version"
+
+#: Floating.class:408
+msgid "With delay"
+msgstr "Avec retard"
+
+#: Reglages.form:1325
+msgid "Writable status"
+msgstr "Statut inscriptible"
+
+#: Reglages.class:1525
+msgid "Your system stability and security is optimal."
+msgstr "La stabilité et la sécurité de votre système sont optimales."
+
