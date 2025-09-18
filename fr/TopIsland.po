@@ -267,7 +267,7 @@ msgstr "Courrier de"
 
 #: MailVerif.class:45
 msgid "Mail information"
-msgstr "Informations par courrier"
+msgstr "Mail information"
 
 #: NotifMailNew.form:59
 msgid "Mail start"
@@ -423,7 +423,7 @@ msgstr "SSL / TLS"
 
 #: Reglages.form:259
 msgid "Stacking"
-msgstr "Stacking"
+msgstr "Position"
 
 #: frmAbout.form:98
 msgid "Support Me ;)"
