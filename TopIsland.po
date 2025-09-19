@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-17 15:12 UTC\n"
+"PO-Revision-Date: 2025-09-19 09:15 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
-"Language: fr\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: Demon.module:101
+#: Demon.module:102
 msgid "% charged !"
 msgstr ""
 
@@ -21,12 +21,32 @@ msgstr ""
 msgid "(Changelog)"
 msgstr ""
 
+#: Reglages.form:1423
+msgid "."
+msgstr ""
+
 #: Notif.form:35
 msgid "...message"
 msgstr ""
 
 #: Reglages.form:693
 msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
+msgstr ""
+
+#: Reglages.form:1217
+msgid "2"
+msgstr ""
+
+#: Reglages.form:1231
+msgid "995"
+msgstr ""
+
+#: Minuteur1.form:70
+msgid ":"
+msgstr ""
+
+#: Floating.form:176
+msgid "::"
 msgstr ""
 
 #: Island.form:65
@@ -37,6 +57,10 @@ msgstr ""
 msgid "Above"
 msgstr ""
 
+#: MailVerif.form:30
+msgid "Abrir Correo"
+msgstr ""
+
 #: Reglages.form:784
 msgid "Access log"
 msgstr ""
@@ -45,7 +69,7 @@ msgstr ""
 msgid "Add to white list"
 msgstr ""
 
-#: Reglages.class:1280
+#: Reglages.class:1300
 msgid "Add to white liste"
 msgstr ""
 
@@ -57,12 +81,20 @@ msgstr ""
 msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
 msgstr ""
 
-#: Reglages.form:1187
+#: ReminderBox.class:53
+msgid " at "
+msgstr ""
+
+#: Reglages.form:1188
 msgid "Auto close notification"
 msgstr ""
 
 #: Reglages.form:659
 msgid "Auto lock and unlock (dBm)"
+msgstr ""
+
+#: Floating.form:98 Reglages.form:1005
+msgid "Baidu"
 msgstr ""
 
 #: Reglages.form:485
@@ -85,8 +117,16 @@ msgstr ""
 msgid "Big hour widget on your desktop"
 msgstr ""
 
+#: Floating.form:113 Reglages.form:1005
+msgid "Bing"
+msgstr ""
+
 #: Reglages.form:280
 msgid "Black"
+msgstr ""
+
+#: FollowMe.form:80
+msgid "BlueSky"
 msgstr ""
 
 #: Reglages.form:654
@@ -97,6 +137,10 @@ msgstr ""
 msgid "Calendar app"
 msgstr ""
 
+#: Reglages.form:399
+msgid "Candy"
+msgstr ""
+
 #: Reglages.form:359
 msgid "Change color"
 msgstr ""
@@ -105,12 +149,16 @@ msgstr ""
 msgid "Check"
 msgstr ""
 
-#: Reglages.form:1142
+#: Reglages.form:1143
 msgid "Check every"
 msgstr ""
 
 #: Reglages.form:1086
 msgid "Check Mail"
+msgstr ""
+
+#: Reglages.form:399
+msgid "Childhood"
 msgstr ""
 
 #: Reglages.form:343
@@ -145,7 +193,11 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: Reglages.class:1195
+#: MailVerif.form:24
+msgid "Comprobar ahora"
+msgstr ""
+
+#: Reglages.class:1211
 msgid "Connection to the server successful."
 msgstr ""
 
@@ -173,7 +225,7 @@ msgstr ""
 msgid "Description here"
 msgstr ""
 
-#: ReminderBox.class:74
+#: ReminderBox.class:75
 msgid "Description here..."
 msgstr ""
 
@@ -189,12 +241,32 @@ msgstr ""
 msgid "Device name : "
 msgstr ""
 
+#: Floating.form:93 Reglages.form:1005
+msgid "DuckDuckGo"
+msgstr ""
+
+#: Reglages.form:399
+msgid "Dynamic"
+msgstr ""
+
+#: Reglages.form:455
+msgid "Elara"
+msgstr ""
+
 #: Reglages.form:557
 msgid "Enables new sounds when the charger is plugged in or unplugged."
 msgstr ""
 
 #: Reglages.form:545
 msgid "Extend battery life"
+msgstr ""
+
+#: Reglages.form:399
+msgid "Fairyland"
+msgstr ""
+
+#: Reglages.form:844
+msgid "Floating Bar"
 msgstr ""
 
 #: Floating.form:466
@@ -213,6 +285,10 @@ msgstr ""
 msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
 msgstr ""
 
+#: Reglages.form:455
+msgid "Fresh"
+msgstr ""
+
 #: MailVerif.class:115
 msgid "From : "
 msgstr ""
@@ -229,19 +305,27 @@ msgstr ""
 msgid "General"
 msgstr ""
 
-#: ReminderNotif.form:63
-msgid "if your smartphone is paired with your system, as soon as your smartphone is disconnected or too far away from your computer, your session will lock. As soon as the connection is reestablished or you are next to your computer, the session will unlock."
+#: Reglages.form:280
+msgid "Glass"
 msgstr ""
 
-#: Reglages.form:1332
+#: Floating.form:108 Reglages.form:1005
+msgid "Google"
+msgstr ""
+
+#: FollowMe.form:127
+msgid "https://zengdev.com"
+msgstr ""
+
+#: Reglages.form:1333
 msgid "Immutable mode"
 msgstr ""
 
-#: Reglages.form:1215
+#: Reglages.form:1216
 msgid "Intervalo entre comprobaciones"
 msgstr ""
 
-#: Demon.module:102
+#: Demon.module:103
 msgid "It is recommended to unplug the charger."
 msgstr ""
 
@@ -249,8 +333,12 @@ msgstr ""
 msgid "Launch app"
 msgstr ""
 
-#: Demon.module:134
+#: Demon.module:137
 msgid "Low battery !"
+msgstr ""
+
+#: Minuteur1.form:77
+msgid "M"
 msgstr ""
 
 #: Reglages.form:1056
@@ -277,11 +365,23 @@ msgstr ""
 msgid "MailVerif"
 msgstr ""
 
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr ""
+
 #: ReminderBox.form:106
 msgid "Maximum 145 characters for optimal display"
 msgstr ""
 
-#: Reglages.form:1149
+#: Floating.form:89 Island.form:43
+msgid "Menu1"
+msgstr ""
+
+#: MailVerif.class:47
+msgid " messages."
+msgstr ""
+
+#: Reglages.form:1150
 msgid "minutes"
 msgstr ""
 
@@ -309,7 +409,7 @@ msgstr ""
 msgid "OCR"
 msgstr ""
 
-#: Demon.module:135
+#: Demon.module:138
 msgid "Only 25% remaining. Plug in the charger."
 msgstr ""
 
@@ -329,8 +429,16 @@ msgstr ""
 msgid "Port"
 msgstr ""
 
+#: MailVerif.form:36
+msgid "Preferencias"
+msgstr ""
+
 #: Island.form:70
 msgid "Quit"
+msgstr ""
+
+#: Floating.form:118 Reglages.form:1005
+msgid "Qwant"
 msgstr ""
 
 #: Floating.form:480 Island.form:52 Reglages.form:446
@@ -345,6 +453,18 @@ msgstr ""
 msgid "Reset"
 msgstr ""
 
+#: Reglages.form:1310
+msgid "Rock-Solid Immutable System"
+msgstr ""
+
+#: Reglages.form:1284
+msgid "RSIS"
+msgstr ""
+
+#: Minuteur1.form:84
+msgid "S"
+msgstr ""
+
 #: MailVerif.form:42
 msgid "Salir"
 msgstr ""
@@ -355,6 +475,10 @@ msgstr ""
 
 #: ReminderBox.form:63
 msgid "Schedule"
+msgstr ""
+
+#: ReminderBox.class:53
+msgid "Scheduled for "
 msgstr ""
 
 #: Floating.class:69
@@ -385,7 +509,7 @@ msgstr ""
 msgid "See file with file manager"
 msgstr ""
 
-#: Reglages.class:1292
+#: Reglages.class:1312
 msgid "See white liste"
 msgstr ""
 
@@ -409,12 +533,20 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#: Reglages.form:1434
+#: Reglages.form:1435
 msgid "Show status icon on Top Island when RSIS is disabled "
 msgstr ""
 
 #: Reglages.form:633
 msgid "Signal strength"
+msgstr ""
+
+#: Reglages.form:293
+msgid "Smart"
+msgstr ""
+
+#: Floating.form:103 Reglages.form:1005
+msgid "Sogou"
 msgstr ""
 
 #: Reglages.form:1136
@@ -433,11 +565,19 @@ msgstr ""
 msgid "Support me to offer free programs for Deepin Linux"
 msgstr ""
 
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr ""
+
+#: Reglages.form:455
+msgid "Tethys"
+msgstr ""
+
 #: Reglages.form:274
 msgid "Theme"
 msgstr ""
 
-#: Reglages.class:1530
+#: Reglages.class:1550
 msgid "The stability and security of your system is not optimal !"
 msgstr ""
 
@@ -461,6 +601,10 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
+#: .project:1 Donate.form:41 frmAbout.form:51
+msgid "Top Island"
+msgstr ""
+
 #: frmAbout.form:78
 msgid "Top Island Specially developed for Deepin 25."
 msgstr ""
@@ -477,7 +621,7 @@ msgstr ""
 msgid "Transparency of Top Island"
 msgstr ""
 
-#: Reglages.class:1202
+#: Reglages.class:1218
 msgid "Unable to connect to the server. Please check your details."
 msgstr ""
 
@@ -497,11 +641,23 @@ msgstr ""
 msgid "With delay"
 msgstr ""
 
-#: Reglages.form:1325
+#: Reglages.form:1326
 msgid "Writable status"
 msgstr ""
 
-#: Reglages.class:1525
+#: FollowMe.form:71
+msgid "X"
+msgstr ""
+
+#: MailVerif.class:47
+msgid "Your mailbox contains "
+msgstr ""
+
+#: Reglages.class:1545
 msgid "Your system stability and security is optimal."
+msgstr ""
+
+#: Floating.form:167
+msgid "|"
 msgstr ""
 
