@@ -57,10 +57,6 @@ msgstr ""
 msgid "Above"
 msgstr ""
 
-#: MailVerif.form:30
-msgid "Abrir Correo"
-msgstr ""
-
 #: Reglages.form:784
 msgid "Access log"
 msgstr ""
@@ -193,10 +189,6 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: MailVerif.form:24
-msgid "Comprobar ahora"
-msgstr ""
-
 #: Reglages.class:1211
 msgid "Connection to the server successful."
 msgstr ""
@@ -321,10 +313,6 @@ msgstr ""
 msgid "Immutable mode"
 msgstr ""
 
-#: Reglages.form:1216
-msgid "Intervalo entre comprobaciones"
-msgstr ""
-
 #: Demon.module:103
 msgid "It is recommended to unplug the charger."
 msgstr ""
@@ -427,10 +415,6 @@ msgstr ""
 
 #: Reglages.form:1116
 msgid "Port"
-msgstr ""
-
-#: MailVerif.form:36
-msgid "Preferencias"
 msgstr ""
 
 #: Island.form:70
