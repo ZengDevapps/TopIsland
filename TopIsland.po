@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-19 09:15 UTC\n"
+"PO-Revision-Date: 2025-09-20 09:56 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -55,6 +55,10 @@ msgstr ""
 
 #: Reglages.form:293
 msgid "Above"
+msgstr ""
+
+#: MailVerif.form:30
+msgid "Abrir Correo"
 msgstr ""
 
 #: Reglages.form:784
@@ -313,6 +317,10 @@ msgstr ""
 msgid "Immutable mode"
 msgstr ""
 
+#: Reglages.form:1216
+msgid "Intervalo entre comprobaciones"
+msgstr ""
+
 #: Demon.module:103
 msgid "It is recommended to unplug the charger."
 msgstr ""
@@ -415,6 +423,10 @@ msgstr ""
 
 #: Reglages.form:1116
 msgid "Port"
+msgstr ""
+
+#: MailVerif.form:36
+msgid "Preferencias"
 msgstr ""
 
 #: Island.form:70
