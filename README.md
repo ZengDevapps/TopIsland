@@ -4,6 +4,10 @@ You will find the file to translate it into another language. I use https://gitl
 
 You will also find the source code for the program in zip format, which is updated regularly.
 
+You will find the source code files in the archive. For development purposes, some files have a “.” in front of their name. To view them, you must enable the visibility of hidden files in the Deepin file manager settings.
+
+
+
 
 Website : [https://zengdev.com](https://zengdev.com)
 
