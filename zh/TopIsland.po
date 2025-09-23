@@ -1,0 +1,691 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TopIsland 3.20.4\n"
+"PO-Revision-Date: 2025-09-23 07:46 UTC\n"
+"Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Demon.module:102
+msgid "% charged !"
+msgstr "已充电%！"
+
+#: Reglages.form:668
+msgid "(0 = very close to 10 = very distant) See info icon for more information"
+msgstr "（0 = 非常接近，10 = 非常远）查看信息图标了解更多信息"
+
+#: frmAbout.form:140
+msgid "(Changelog)"
+msgstr "（变更日志）"
+
+#: Reglages.form:1466
+msgid "."
+msgstr "。"
+
+#: Notif.form:35
+msgid "...message"
+msgstr "...信息"
+
+#: Reglages.form:695
+msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
+msgstr "\t0 dBm\t0-1 米\t非常近，直接接触\n\t1 dBm\t1-2 米\t非常接近\n\t2 dBm\t2-3 米\t非常近\n\t3 dBm\t3-4 米\t近距离\n\t4 dBm\t4-5 米\t开始散射\n\t5 dBm\t5-6 米\t稳定信号\n\t6 dBm\t6-7 米\t开始衰减\n\t7 dBm\t7-8 米\t中等信号\n\t8 dBm\t8-9 米\t衰减信号\n\t9 dBm\t9-10 米\t弱信号\n\t10 dBm\t10-11 米\t连接限制"
+
+#: Reglages.form:1219
+msgid "2"
+msgstr "2"
+
+#: Reglages.form:1233
+msgid "995"
+msgstr "995"
+
+#: Minuteur1.form:70
+msgid ":"
+msgstr "："
+
+#: Floating.form:176
+msgid "::"
+msgstr "::"
+
+#: Island.form:65
+msgid "About"
+msgstr "关于"
+
+#: Reglages.form:295
+msgid "Above"
+msgstr "多于"
+
+#: MailVerif.form:30
+msgid "Abrir Correo"
+msgstr "邮报"
+
+#: Reglages.form:786
+msgid "Access log"
+msgstr "访问日志"
+
+#: Reglages.form:802
+msgid "Add to white list"
+msgstr "添加到白名单"
+
+#: Reglages.class:1301
+msgid "Add to white liste"
+msgstr "添加到白名单"
+
+#: MailVerif.class:65
+msgid "An error occurred. Please verify your connection details or your internet access."
+msgstr "发生错误。请验证您的连接详细信息或互联网访问。"
+
+#: MailVerif.class:137
+msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
+msgstr "发生意外错误。请验证您的连接详细信息和互联网访问权限。"
+
+#: ReminderBox.class:50
+msgid " at "
+msgstr " 在 "
+
+#: Reglages.form:1190
+msgid "Auto close notification"
+msgstr "自动关闭通知"
+
+#: Reglages.form:661
+msgid "Auto lock and unlock (dBm)"
+msgstr "自动锁定和解锁（dBm）"
+
+#: Floating.form:98 Reglages.form:1007
+msgid "Baidu"
+msgstr "百度"
+
+#: Reglages.form:487
+msgid "Battery"
+msgstr "电池"
+
+#: BatteryNotifNew.form:65 NotifAlert.form:58
+msgid "Battery information"
+msgstr "电池信息"
+
+#: Reglages.form:520
+msgid "Battery sound"
+msgstr "电池声音"
+
+#: Reglages.form:295
+msgid "Below"
+msgstr "以下"
+
+#: Reglages.form:350
+msgid "Big hour widget on your desktop"
+msgstr "桌面上的大小时小部件"
+
+#: Floating.form:113 Reglages.form:1007
+msgid "Bing"
+msgstr "必应"
+
+#: Reglages.form:282
+msgid "Black"
+msgstr "黑色的"
+
+#: FollowMe.form:80
+msgid "BlueSky"
+msgstr "蓝天"
+
+#: Reglages.form:656
+msgid "Bluetooth device"
+msgstr "蓝牙设备"
+
+#: Reglages.form:329
+msgid "Calendar app"
+msgstr "日历应用"
+
+#: RSISTerm.form:51
+msgid "Cancel"
+msgstr "取消"
+
+#: Reglages.form:401
+msgid "Candy"
+msgstr "糖果"
+
+#: Reglages.form:361
+msgid "Change color"
+msgstr "更改颜色"
+
+#: Reglages.form:1133
+msgid "Check"
+msgstr "查看"
+
+#: Reglages.form:1145
+msgid "Check every"
+msgstr "检查每一个"
+
+#: Reglages.form:1088
+msgid "Check Mail"
+msgstr "检查邮件"
+
+#: Reglages.form:401
+msgid "Childhood"
+msgstr "童年"
+
+#: Reglages.form:345
+msgid "Choose a.desktop file !"
+msgstr "选择一个.desktop文件！"
+
+#: ColorBigHour.form:77
+msgid "Choose Date color"
+msgstr "选择日期颜色"
+
+#: ColorBigHour.form:67
+msgid "Choose Hour color"
+msgstr "选择小时颜色"
+
+#: ColorBigHour.form:72
+msgid "Choose Minute color"
+msgstr "选择分钟颜色"
+
+#: Reglages.form:1018
+msgid "Choose your color"
+msgstr "选择你的颜色"
+
+#: Minuteur1.form:147
+msgid "Choose your timer alarm in the settings"
+msgstr "在设置中选择定时器闹钟"
+
+#: Reglages.form:814
+msgid "Clear log"
+msgstr "清除日志"
+
+#: ReminderBox.form:166 SecurityWhite.form:63
+msgid "Close"
+msgstr "关闭"
+
+#: MailVerif.form:24
+msgid "Comprobar ahora"
+msgstr "现在购买"
+
+#: Reglages.class:1212
+msgid "Connection to the server successful."
+msgstr "连接到服务器成功。"
+
+#: Reglages.form:891
+msgid "Custom shortcuts"
+msgstr "自定义快捷方式"
+
+#: Reglages.form:457 ReminderNotif.class:13
+msgid "Default"
+msgstr "默认"
+
+#: Reglages.form:266
+msgid "Delay to go back to initial position"
+msgstr "延迟返回初始位置"
+
+#: ReminderBox.form:156 SecurityWhite.form:58
+msgid "Delete"
+msgstr "删除"
+
+#: frmAbout.form:71
+msgid "Description"
+msgstr "描述"
+
+#: ReminderBox.form:89
+msgid "Description here"
+msgstr "此处描述"
+
+#: ReminderBox.class:72
+msgid "Description here..."
+msgstr "此处描述..."
+
+#: Reglages.form:773
+msgid "Detect if the microphone is in use"
+msgstr "检测麦克风是否正在使用"
+
+#: Reglages.form:768
+msgid "Detect if the webcam is in use"
+msgstr "检测网络摄像头是否正在使用"
+
+#: Reglages.class:127
+msgid "Device name : "
+msgstr "设备名称："
+
+#: Floating.form:93 Reglages.form:1007
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#: Reglages.form:401
+msgid "Dynamic"
+msgstr "动态的"
+
+#: Reglages.form:457
+msgid "Elara"
+msgstr "埃拉拉"
+
+#: Reglages.form:559
+msgid "Enables new sounds when the charger is plugged in or unplugged."
+msgstr "插入或拔出充电器时发出新的声音。"
+
+#: RSISTerm.form:72
+msgid "Enter a command without sudo (ex :  apt update) "
+msgstr "输入不带 sudo 的命令（例如：apt update）"
+
+#: RSISTerm.form:64
+msgid "Enter your command here"
+msgstr "在此输入您的命令"
+
+#: Reglages.form:1435
+msgid "Execute command without disable immutable service"
+msgstr "执行命令而不禁用不可变服务"
+
+#: Reglages.form:547
+msgid "Extend battery life"
+msgstr "延长电池寿命"
+
+#: Reglages.form:401
+msgid "Fairyland"
+msgstr "仙境"
+
+#: Reglages.form:846
+msgid "Floating Bar"
+msgstr "浮动酒吧"
+
+#: Floating.form:466
+msgid "Folders"
+msgstr "文件夹"
+
+#: FollowMe.form:42
+msgid "Follow me"
+msgstr "跟我来"
+
+#: FollowMe.form:106 frmAbout.form:120
+msgid "Follow Me"
+msgstr "跟我来"
+
+#: Reglages.form:572
+msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
+msgstr "为了获得最佳性能，请考虑禁用“插入”“移除”和“电池电量低”的声音。\n单击小设置按钮转到“声音效果”部分的深度控制中心。"
+
+#: Reglages.form:457
+msgid "Fresh"
+msgstr "新鲜的"
+
+#: MailVerif.class:116
+msgid "From : "
+msgstr "从 ： "
+
+#: Floating.class:65
+msgid "Full screenshot"
+msgstr "完整截图"
+
+#: Floating.class:66
+msgid "Full With delay"
+msgstr "完整 有延迟"
+
+#: Reglages.form:234
+msgid "General"
+msgstr "一般的"
+
+#: Reglages.form:282
+msgid "Glass"
+msgstr "玻璃"
+
+#: Floating.form:108 Reglages.form:1007
+msgid "Google"
+msgstr "谷歌"
+
+#: FollowMe.form:127
+msgid "https://zengdev.com"
+msgstr "https://zengdev.com"
+
+#: Reglages.form:1335
+msgid "Immutable mode"
+msgstr "不可变模式"
+
+#: Reglages.form:1218
+msgid "Intervalo entre comprobaciones"
+msgstr "康普罗巴乔内斯之间的间隔"
+
+#: Demon.module:103
+msgid "It is recommended to unplug the charger."
+msgstr "建议拔掉充电器。"
+
+#: Floating.class:413
+msgid "Launch app"
+msgstr "启动应用程序"
+
+#: Demon.module:137
+msgid "Low battery !"
+msgstr "電池電量低！"
+
+#: Minuteur1.form:77
+msgid "M"
+msgstr "米"
+
+#: Reglages.form:1058
+msgid "Mail"
+msgstr "邮件"
+
+#: Reglages.form:1128
+msgid "Mail app"
+msgstr "邮件应用"
+
+#: NotifMailNew.form:87
+msgid "Mail from"
+msgstr "邮件来自"
+
+#: MailVerif.class:45
+msgid "Mail information"
+msgstr "邮件信息"
+
+#: NotifMailNew.form:59
+msgid "Mail start"
+msgstr "邮件启动"
+
+#: MailVerif.form:14
+msgid "MailVerif"
+msgstr "MailVerif"
+
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr "乳齿象"
+
+#: ReminderBox.form:106
+msgid "Maximum 145 characters for optimal display"
+msgstr "最多 145 个字符以实现最佳显示"
+
+#: Floating.form:89 Island.form:43
+msgid "Menu1"
+msgstr "菜单1"
+
+#: MailVerif.class:47
+msgid " messages."
+msgstr "消息。"
+
+#: Reglages.form:1152
+msgid "minutes"
+msgstr "分钟"
+
+#: MailVerif.class:115 NotifMailNew.form:72
+msgid "New mail"
+msgstr "新邮件"
+
+#: Reglages.form:525
+msgid "Notification if battery is at 25%"
+msgstr "电池剩余 25% 时发出通知"
+
+#: Reglages.form:536
+msgid "Notification if battery is at 80%"
+msgstr "电池剩余 80% 时发出通知"
+
+#: Reglages.form:462
+msgid "Notification sound"
+msgstr "通知声音"
+
+#: MailVerif.class:117
+msgid "Object : "
+msgstr "目的 ： "
+
+#: Floating.class:70
+msgid "OCR"
+msgstr "光学字符识别"
+
+#: Demon.module:138
+msgid "Only 25% remaining. Plug in the charger."
+msgstr "仅剩 25%。请插入充电器。"
+
+#: NotifMailNew.form:64
+msgid "Open your mailbox"
+msgstr "打开你的邮箱"
+
+#: Reglages.form:1113
+msgid "Password"
+msgstr "密码"
+
+#: Minuteur1.class:121
+msgid "Please select minute / second"
+msgstr "请选择分钟/秒"
+
+#: Reglages.form:1118
+msgid "Port"
+msgstr "港口"
+
+#: MailVerif.form:36
+msgid "Preferencias"
+msgstr "偏好"
+
+#: Island.form:70
+msgid "Quit"
+msgstr "辞职"
+
+#: Floating.form:118 Reglages.form:1007
+msgid "Qwant"
+msgstr "量子"
+
+#: Floating.form:480 Island.form:52 Reglages.form:448
+msgid "Reminder"
+msgstr "提醒"
+
+#: Island.form:186
+msgid "Reminder active"
+msgstr "提醒已激活"
+
+#: Reglages.form:1046
+msgid "Reset"
+msgstr "重置"
+
+#: RSISTerm.form:85 Reglages.form:1312
+msgid "Rock-Solid Immutable System"
+msgstr "坚如磐石的不可变系统"
+
+#: Reglages.form:1286
+msgid "RSIS"
+msgstr "远程信息系统"
+
+#: RSISTerm.form:46
+msgid "Run"
+msgstr "跑步"
+
+#: Reglages.form:1430
+msgid "Run a command"
+msgstr "运行命令"
+
+#: Minuteur1.form:84
+msgid "S"
+msgstr "秒"
+
+#: MailVerif.form:42
+msgid "Salir"
+msgstr "萨利尔"
+
+#: Reglages.form:996
+msgid "Save"
+msgstr "节省"
+
+#: ReminderBox.form:63
+msgid "Schedule"
+msgstr "日程"
+
+#: ReminderBox.class:50
+msgid "Scheduled for "
+msgstr "预定"
+
+#: Floating.class:69
+msgid "Screen scroll"
+msgstr "屏幕滚动"
+
+#: Floating.form:473
+msgid "Screenshot"
+msgstr "截屏"
+
+#: Floating.class:68
+msgid "Screen video record"
+msgstr "屏幕录像"
+
+#: Reglages.form:1001
+msgid "Search engine"
+msgstr "搜索引擎"
+
+#: Reglages.form:720
+msgid "Security"
+msgstr "安全"
+
+#: SecurityWhite.form:71
+msgid "Security white list"
+msgstr "安全白名单"
+
+#: Reglages.form:797
+msgid "See file with file manager"
+msgstr "使用文件管理器查看文件"
+
+#: Reglages.class:1313
+msgid "See white liste"
+msgstr "查看白名单"
+
+#: Floating.class:67
+msgid "Select window"
+msgstr "选择窗口"
+
+#: Reglages.form:1103
+msgid "Server"
+msgstr "服务器"
+
+#: Reglages.form:590
+msgid "Session"
+msgstr "会议"
+
+#: Reglages.form:703
+msgid "Session auto Lock & Unlock"
+msgstr "会话自动锁定和解锁"
+
+#: Floating.form:494 Island.form:60
+msgid "Settings"
+msgstr "设置"
+
+#: Reglages.form:1440
+msgid "Show status icon on Top Island when RSIS is disabled "
+msgstr "当 RSIS 禁用时，在 Top Island 上显示状态图标"
+
+#: Reglages.form:635
+msgid "Signal strength"
+msgstr "信号强度"
+
+#: Reglages.form:295
+msgid "Smart"
+msgstr "聪明的"
+
+#: Floating.form:103 Reglages.form:1007
+msgid "Sogou"
+msgstr "搜狗"
+
+#: Reglages.form:1138
+msgid "SSL / TLS"
+msgstr "SSL/TLS"
+
+#: Reglages.form:261
+msgid "Stacking"
+msgstr "堆叠"
+
+#: frmAbout.form:98
+msgid "Support Me ;)"
+msgstr "支持我；）"
+
+#: Donate.form:48
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr "支持我为 Deepin Linux 提供免费程序"
+
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr "电报"
+
+#: Reglages.form:457
+msgid "Tethys"
+msgstr "特提斯"
+
+#: Reglages.form:276
+msgid "Theme"
+msgstr "主题"
+
+#: Reglages.class:1551
+msgid "The stability and security of your system is not optimal !"
+msgstr "您的系统的稳定性和安全性不是最佳的！"
+
+#: Minuteur1.class:76
+msgid "The timer is finished."
+msgstr "计时器已结束。"
+
+#: BatteryNotifNew.form:43 ColorBigHour.form:48 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:392 ReminderNotif.form:43
+msgid "Timer"
+msgstr "计时器"
+
+#: Minuteur1.form:149 Reglages.form:406
+msgid "Timer alarm"
+msgstr "定时闹钟"
+
+#: Minuteur1.class:23
+msgid "Timer alarm : "
+msgstr "定时器闹钟："
+
+#: ReminderBox.form:137
+msgid "Title"
+msgstr "标题"
+
+#: .project:1 Donate.form:41 frmAbout.form:51
+msgid "Top Island"
+msgstr "托普岛"
+
+#: frmAbout.form:78
+msgid "Top Island Specially developed for Deepin 25."
+msgstr "Top Island 专为 Deepin 25 开发。"
+
+#: .project:2
+msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
+msgstr "Top Island 专为 Deepin 25 开发。\n为您的 Deepin 系统提供多种实用工具：\n- 计时器\n- 邮件通知\n- 安全\n- 坚如磐石的不可变系统\n- 浮动栏\n以及其他实用程序"
+
+#: Reglages.form:1034
+msgid "Transparency"
+msgstr "透明度"
+
+#: Reglages.form:271
+msgid "Transparency of Top Island"
+msgstr "Top Island 的透明度"
+
+#: Reglages.class:1219
+msgid "Unable to connect to the server. Please check your details."
+msgstr "无法连接到服务器。请检查您的详细信息。"
+
+#: Reglages.form:1108
+msgid "User"
+msgstr "用户"
+
+#: RSISTerm.form:92
+msgid "Use with caution ! If you are unsure, do not use this function."
+msgstr "请谨慎使用！如果您不确定，请不要使用此功能。"
+
+#: Reglages.form:373
+msgid "Utilities"
+msgstr "公用事业"
+
+#: frmAbout.form:58
+msgid "Version"
+msgstr "版本"
+
+#: Floating.class:408
+msgid "With delay"
+msgstr "延迟"
+
+#: Reglages.form:1328
+msgid "Writable status"
+msgstr "可写状态"
+
+#: FollowMe.form:71
+msgid "X"
+msgstr "十"
+
+#: MailVerif.class:47
+msgid "Your mailbox contains "
+msgstr "您的邮箱包含"
+
+#: Reglages.class:1546
+msgid "Your system stability and security is optimal."
+msgstr "您的系统稳定性和安全性是最佳的。"
+
+#: Floating.form:167
+msgid "|"
+msgstr "|"
+
