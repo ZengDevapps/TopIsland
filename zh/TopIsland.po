@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-23 07:46 UTC\n"
+"PO-Revision-Date: 2025-09-24 08:15 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
-"Language: en\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,7 +13,7 @@ msgstr ""
 msgid "% charged !"
 msgstr "已充电%！"
 
-#: Reglages.form:668
+#: Reglages.form:1210
 msgid "(0 = very close to 10 = very distant) See info icon for more information"
 msgstr "（0 = 非常接近，10 = 非常远）查看信息图标了解更多信息"
 
@@ -21,25 +21,21 @@ msgstr "（0 = 非常接近，10 = 非常远）查看信息图标了解更多信
 msgid "(Changelog)"
 msgstr "（变更日志）"
 
-#: Reglages.form:1466
+#: AQI.form:39
+msgid "---"
+msgstr "---"
+
+#: AQI.form:61
+msgid "----"
+msgstr "----"
+
+#: Reglages.form:1568
 msgid "."
 msgstr "。"
 
 #: Notif.form:35
 msgid "...message"
 msgstr "...信息"
-
-#: Reglages.form:695
-msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
-msgstr "\t0 dBm\t0-1 米\t非常近，直接接触\n\t1 dBm\t1-2 米\t非常接近\n\t2 dBm\t2-3 米\t非常近\n\t3 dBm\t3-4 米\t近距离\n\t4 dBm\t4-5 米\t开始散射\n\t5 dBm\t5-6 米\t稳定信号\n\t6 dBm\t6-7 米\t开始衰减\n\t7 dBm\t7-8 米\t中等信号\n\t8 dBm\t8-9 米\t衰减信号\n\t9 dBm\t9-10 米\t弱信号\n\t10 dBm\t10-11 米\t连接限制"
-
-#: Reglages.form:1219
-msgid "2"
-msgstr "2"
-
-#: Reglages.form:1233
-msgid "995"
-msgstr "995"
 
 #: Minuteur1.form:70
 msgid ":"
@@ -49,11 +45,27 @@ msgstr "："
 msgid "::"
 msgstr "::"
 
+#: TERMO.form:86
+msgid "°C"
+msgstr "°C"
+
+#: Reglages.form:1237
+msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
+msgstr "\t0 dBm\t0-1 米\t非常近，直接接触\n\t1 dBm\t1-2 米\t非常接近\n\t2 dBm\t2-3 米\t非常近\n\t3 dBm\t3-4 米\t近距离\n\t4 dBm\t4-5 米\t开始散射\n\t5 dBm\t5-6 米\t稳定信号\n\t6 dBm\t6-7 米\t开始衰减\n\t7 dBm\t7-8 米\t中等信号\n\t8 dBm\t8-9 米\t衰减信号\n\t9 dBm\t9-10 米\t弱信号\n\t10 dBm\t10-11 米\t连接限制"
+
+#: Reglages.form:1065
+msgid "2"
+msgstr "2"
+
+#: Reglages.form:1079
+msgid "995"
+msgstr "995"
+
 #: Island.form:65
 msgid "About"
 msgstr "关于"
 
-#: Reglages.form:295
+#: Reglages.form:310
 msgid "Above"
 msgstr "多于"
 
@@ -61,17 +73,21 @@ msgstr "多于"
 msgid "Abrir Correo"
 msgstr "邮报"
 
-#: Reglages.form:786
+#: Reglages.form:1328
 msgid "Access log"
 msgstr "访问日志"
 
-#: Reglages.form:802
+#: Reglages.form:1344
 msgid "Add to white list"
 msgstr "添加到白名单"
 
-#: Reglages.class:1301
+#: Reglages.class:1333
 msgid "Add to white liste"
 msgstr "添加到白名单"
+
+#: Reglages.form:867
+msgid "Air Quality (AQI)"
+msgstr "空气质量（AQI）"
 
 #: MailVerif.class:65
 msgid "An error occurred. Please verify your connection details or your internet access."
@@ -81,23 +97,39 @@ msgstr "发生错误。请验证您的连接详细信息或互联网访问。"
 msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
 msgstr "发生意外错误。请验证您的连接详细信息和互联网访问权限。"
 
+#: AQI.form:47 Reglages.form:894
+msgid "AQI index"
+msgstr "AQI指数"
+
+#: AQI.class:77
+msgid "AQI index : China"
+msgstr "AQI指数：中国"
+
+#: AQI.class:111
+msgid "AQI index : India"
+msgstr "AQI指数：印度"
+
+#: AQI.class:46
+msgid "AQI index : US"
+msgstr "AQI指数：美国"
+
 #: ReminderBox.class:50
 msgid " at "
 msgstr " 在 "
 
-#: Reglages.form:1190
+#: Reglages.form:1036
 msgid "Auto close notification"
 msgstr "自动关闭通知"
 
-#: Reglages.form:661
+#: Reglages.form:1203
 msgid "Auto lock and unlock (dBm)"
 msgstr "自动锁定和解锁（dBm）"
 
-#: Floating.form:98 Reglages.form:1007
+#: Floating.form:98 Reglages.form:635
 msgid "Baidu"
 msgstr "百度"
 
-#: Reglages.form:487
+#: Reglages.form:371
 msgid "Battery"
 msgstr "电池"
 
@@ -105,23 +137,23 @@ msgstr "电池"
 msgid "Battery information"
 msgstr "电池信息"
 
-#: Reglages.form:520
+#: Reglages.form:404
 msgid "Battery sound"
 msgstr "电池声音"
 
-#: Reglages.form:295
+#: Reglages.form:310
 msgid "Below"
 msgstr "以下"
 
-#: Reglages.form:350
-msgid "Big hour widget on your desktop"
-msgstr "桌面上的大小时小部件"
+#: Reglages.form:857
+msgid "Big hour"
+msgstr "重要时刻"
 
-#: Floating.form:113 Reglages.form:1007
+#: Floating.form:113 Reglages.form:635
 msgid "Bing"
 msgstr "必应"
 
-#: Reglages.form:282
+#: Reglages.form:297
 msgid "Black"
 msgstr "黑色的"
 
@@ -129,11 +161,11 @@ msgstr "黑色的"
 msgid "BlueSky"
 msgstr "蓝天"
 
-#: Reglages.form:656
+#: Reglages.form:1198
 msgid "Bluetooth device"
 msgstr "蓝牙设备"
 
-#: Reglages.form:329
+#: Reglages.form:344
 msgid "Calendar app"
 msgstr "日历应用"
 
@@ -141,47 +173,39 @@ msgstr "日历应用"
 msgid "Cancel"
 msgstr "取消"
 
-#: Reglages.form:401
+#: Reglages.form:714
 msgid "Candy"
 msgstr "糖果"
 
-#: Reglages.form:361
+#: Reglages.form:845
 msgid "Change color"
 msgstr "更改颜色"
 
-#: Reglages.form:1133
+#: Reglages.form:979
 msgid "Check"
 msgstr "查看"
 
-#: Reglages.form:1145
+#: Reglages.form:991
 msgid "Check every"
 msgstr "检查每一个"
 
-#: Reglages.form:1088
+#: Reglages.form:934
 msgid "Check Mail"
 msgstr "检查邮件"
 
-#: Reglages.form:401
+#: Reglages.form:714
 msgid "Childhood"
 msgstr "童年"
 
-#: Reglages.form:345
+#: Reglages.form:889
+msgid "China"
+msgstr "中国"
+
+#: Reglages.form:360
 msgid "Choose a.desktop file !"
 msgstr "选择一个.desktop文件！"
 
-#: ColorBigHour.form:77
-msgid "Choose Date color"
-msgstr "选择日期颜色"
-
-#: ColorBigHour.form:67
-msgid "Choose Hour color"
-msgstr "选择小时颜色"
-
-#: ColorBigHour.form:72
-msgid "Choose Minute color"
-msgstr "选择分钟颜色"
-
-#: Reglages.form:1018
+#: Reglages.form:646
 msgid "Choose your color"
 msgstr "选择你的颜色"
 
@@ -189,7 +213,7 @@ msgstr "选择你的颜色"
 msgid "Choose your timer alarm in the settings"
 msgstr "在设置中选择定时器闹钟"
 
-#: Reglages.form:814
+#: Reglages.form:1356
 msgid "Clear log"
 msgstr "清除日志"
 
@@ -201,19 +225,23 @@ msgstr "关闭"
 msgid "Comprobar ahora"
 msgstr "现在购买"
 
-#: Reglages.class:1212
+#: Reglages.class:1244
 msgid "Connection to the server successful."
 msgstr "连接到服务器成功。"
 
-#: Reglages.form:891
+#: Reglages.form:519
 msgid "Custom shortcuts"
 msgstr "自定义快捷方式"
 
-#: Reglages.form:457 ReminderNotif.class:13
+#: ColorBigHour.form:83
+msgid "Date color"
+msgstr "日期颜色"
+
+#: Reglages.form:770 ReminderNotif.class:13
 msgid "Default"
 msgstr "默认"
 
-#: Reglages.form:266
+#: Reglages.form:281
 msgid "Delay to go back to initial position"
 msgstr "延迟返回初始位置"
 
@@ -233,31 +261,31 @@ msgstr "此处描述"
 msgid "Description here..."
 msgstr "此处描述..."
 
-#: Reglages.form:773
+#: Reglages.form:1315
 msgid "Detect if the microphone is in use"
 msgstr "检测麦克风是否正在使用"
 
-#: Reglages.form:768
+#: Reglages.form:1310
 msgid "Detect if the webcam is in use"
 msgstr "检测网络摄像头是否正在使用"
 
-#: Reglages.class:127
+#: Reglages.class:159
 msgid "Device name : "
 msgstr "设备名称："
 
-#: Floating.form:93 Reglages.form:1007
+#: Floating.form:93 Reglages.form:635
 msgid "DuckDuckGo"
 msgstr "DuckDuckGo"
 
-#: Reglages.form:401
+#: Reglages.form:714
 msgid "Dynamic"
 msgstr "动态的"
 
-#: Reglages.form:457
+#: Reglages.form:770
 msgid "Elara"
 msgstr "埃拉拉"
 
-#: Reglages.form:559
+#: Reglages.form:443
 msgid "Enables new sounds when the charger is plugged in or unplugged."
 msgstr "插入或拔出充电器时发出新的声音。"
 
@@ -269,19 +297,27 @@ msgstr "输入不带 sudo 的命令（例如：apt update）"
 msgid "Enter your command here"
 msgstr "在此输入您的命令"
 
-#: Reglages.form:1435
+#: AQI.class:80
+msgid "Excellent"
+msgstr "出色的"
+
+#: Reglages.form:1537
 msgid "Execute command without disable immutable service"
 msgstr "执行命令而不禁用不可变服务"
 
-#: Reglages.form:547
+#: Reglages.form:431
 msgid "Extend battery life"
 msgstr "延长电池寿命"
 
-#: Reglages.form:401
+#: Reglages.form:714
 msgid "Fairyland"
 msgstr "仙境"
 
-#: Reglages.form:846
+#: ColorBigHour.form:115
+msgid "Feeling temp color"
+msgstr "体感温度的颜色"
+
+#: Reglages.form:474
 msgid "Floating Bar"
 msgstr "浮动酒吧"
 
@@ -297,11 +333,11 @@ msgstr "跟我来"
 msgid "Follow Me"
 msgstr "跟我来"
 
-#: Reglages.form:572
+#: Reglages.form:456
 msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
 msgstr "为了获得最佳性能，请考虑禁用“插入”“移除”和“电池电量低”的声音。\n单击小设置按钮转到“声音效果”部分的深度控制中心。"
 
-#: Reglages.form:457
+#: Reglages.form:770
 msgid "Fresh"
 msgstr "新鲜的"
 
@@ -317,27 +353,47 @@ msgstr "完整截图"
 msgid "Full With delay"
 msgstr "完整 有延迟"
 
-#: Reglages.form:234
+#: Reglages.form:249
 msgid "General"
 msgstr "一般的"
 
-#: Reglages.form:282
+#: Reglages.form:297
 msgid "Glass"
 msgstr "玻璃"
 
-#: Floating.form:108 Reglages.form:1007
+#: AQI.class:48
+msgid "Good"
+msgstr "好的"
+
+#: Floating.form:108 Reglages.form:635
 msgid "Google"
 msgstr "谷歌"
+
+#: AQI.class:71
+msgid "Hazardous"
+msgstr "危险"
+
+#: AQI.class:100
+msgid "Heavy pollution"
+msgstr "重污染"
+
+#: ColorBigHour.form:73
+msgid "Hour color"
+msgstr "小时颜色"
 
 #: FollowMe.form:127
 msgid "https://zengdev.com"
 msgstr "https://zengdev.com"
 
-#: Reglages.form:1335
+#: Reglages.form:1437
 msgid "Immutable mode"
 msgstr "不可变模式"
 
-#: Reglages.form:1218
+#: Reglages.form:889
+msgid "India"
+msgstr "印度"
+
+#: Reglages.form:1064
 msgid "Intervalo entre comprobaciones"
 msgstr "康普罗巴乔内斯之间的间隔"
 
@@ -357,11 +413,11 @@ msgstr "電池電量低！"
 msgid "M"
 msgstr "米"
 
-#: Reglages.form:1058
+#: Reglages.form:904
 msgid "Mail"
 msgstr "邮件"
 
-#: Reglages.form:1128
+#: Reglages.form:974
 msgid "Mail app"
 msgstr "邮件应用"
 
@@ -397,23 +453,35 @@ msgstr "菜单1"
 msgid " messages."
 msgstr "消息。"
 
-#: Reglages.form:1152
+#: ColorBigHour.form:78
+msgid "Minute color"
+msgstr "分钟颜色"
+
+#: Reglages.form:998
 msgid "minutes"
 msgstr "分钟"
+
+#: AQI.class:51
+msgid "Moderate"
+msgstr "缓和"
+
+#: AQI.class:95
+msgid "Moderate pollution"
+msgstr "中度污染"
 
 #: MailVerif.class:115 NotifMailNew.form:72
 msgid "New mail"
 msgstr "新邮件"
 
-#: Reglages.form:525
+#: Reglages.form:409
 msgid "Notification if battery is at 25%"
 msgstr "电池剩余 25% 时发出通知"
 
-#: Reglages.form:536
+#: Reglages.form:420
 msgid "Notification if battery is at 80%"
 msgstr "电池剩余 80% 时发出通知"
 
-#: Reglages.form:462
+#: Reglages.form:775
 msgid "Notification sound"
 msgstr "通知声音"
 
@@ -433,7 +501,7 @@ msgstr "仅剩 25%。请插入充电器。"
 msgid "Open your mailbox"
 msgstr "打开你的邮箱"
 
-#: Reglages.form:1113
+#: Reglages.form:959
 msgid "Password"
 msgstr "密码"
 
@@ -441,7 +509,11 @@ msgstr "密码"
 msgid "Please select minute / second"
 msgstr "请选择分钟/秒"
 
-#: Reglages.form:1118
+#: AQI.class:129
+msgid "Poor"
+msgstr "平庸"
+
+#: Reglages.form:964
 msgid "Port"
 msgstr "港口"
 
@@ -453,11 +525,11 @@ msgstr "偏好"
 msgid "Quit"
 msgstr "辞职"
 
-#: Floating.form:118 Reglages.form:1007
+#: Floating.form:118 Reglages.form:635
 msgid "Qwant"
 msgstr "量子"
 
-#: Floating.form:480 Island.form:52 Reglages.form:448
+#: Floating.form:480 Island.form:52 Reglages.form:761
 msgid "Reminder"
 msgstr "提醒"
 
@@ -465,15 +537,15 @@ msgstr "提醒"
 msgid "Reminder active"
 msgstr "提醒已激活"
 
-#: Reglages.form:1046
+#: Reglages.form:674
 msgid "Reset"
 msgstr "重置"
 
-#: RSISTerm.form:85 Reglages.form:1312
+#: RSISTerm.form:85 Reglages.form:1414
 msgid "Rock-Solid Immutable System"
 msgstr "坚如磐石的不可变系统"
 
-#: Reglages.form:1286
+#: Reglages.form:1388
 msgid "RSIS"
 msgstr "远程信息系统"
 
@@ -481,7 +553,7 @@ msgstr "远程信息系统"
 msgid "Run"
 msgstr "跑步"
 
-#: Reglages.form:1430
+#: Reglages.form:1532
 msgid "Run a command"
 msgstr "运行命令"
 
@@ -493,7 +565,11 @@ msgstr "秒"
 msgid "Salir"
 msgstr "萨利尔"
 
-#: Reglages.form:996
+#: AQI.class:119
+msgid "Satisfactory"
+msgstr "满意"
+
+#: Reglages.form:624
 msgid "Save"
 msgstr "节省"
 
@@ -517,11 +593,11 @@ msgstr "截屏"
 msgid "Screen video record"
 msgstr "屏幕录像"
 
-#: Reglages.form:1001
+#: Reglages.form:629
 msgid "Search engine"
 msgstr "搜索引擎"
 
-#: Reglages.form:720
+#: Reglages.form:1262
 msgid "Security"
 msgstr "安全"
 
@@ -529,11 +605,11 @@ msgstr "安全"
 msgid "Security white list"
 msgstr "安全白名单"
 
-#: Reglages.form:797
+#: Reglages.form:1339
 msgid "See file with file manager"
 msgstr "使用文件管理器查看文件"
 
-#: Reglages.class:1313
+#: Reglages.class:1345
 msgid "See white liste"
 msgstr "查看白名单"
 
@@ -541,15 +617,15 @@ msgstr "查看白名单"
 msgid "Select window"
 msgstr "选择窗口"
 
-#: Reglages.form:1103
+#: Reglages.form:949
 msgid "Server"
 msgstr "服务器"
 
-#: Reglages.form:590
+#: Reglages.form:1132
 msgid "Session"
 msgstr "会议"
 
-#: Reglages.form:703
+#: Reglages.form:1245
 msgid "Session auto Lock & Unlock"
 msgstr "会话自动锁定和解锁"
 
@@ -557,27 +633,43 @@ msgstr "会话自动锁定和解锁"
 msgid "Settings"
 msgstr "设置"
 
-#: Reglages.form:1440
+#: AQI.class:139
+msgid "Severe"
+msgstr "严重"
+
+#: AQI.class:105
+msgid "Severe pollution"
+msgstr "严重污染"
+
+#: Reglages.form:1542
 msgid "Show status icon on Top Island when RSIS is disabled "
 msgstr "当 RSIS 禁用时，在 Top Island 上显示状态图标"
 
-#: Reglages.form:635
+#: Reglages.form:862
+msgid "Show widget on the center of your desktop (hour, weather, AQI)"
+msgstr "在桌面中央显示小部件（小时、天气、AQI）"
+
+#: Reglages.form:1177
 msgid "Signal strength"
 msgstr "信号强度"
 
-#: Reglages.form:295
+#: AQI.class:90
+msgid "Slight pollution"
+msgstr "轻微污染"
+
+#: Reglages.form:310
 msgid "Smart"
 msgstr "聪明的"
 
-#: Floating.form:103 Reglages.form:1007
+#: Floating.form:103 Reglages.form:635
 msgid "Sogou"
 msgstr "搜狗"
 
-#: Reglages.form:1138
+#: Reglages.form:984
 msgid "SSL / TLS"
 msgstr "SSL/TLS"
 
-#: Reglages.form:261
+#: Reglages.form:276
 msgid "Stacking"
 msgstr "堆叠"
 
@@ -593,15 +685,19 @@ msgstr "支持我为 Deepin Linux 提供免费程序"
 msgid "Telegram"
 msgstr "电报"
 
-#: Reglages.form:457
+#: ColorBigHour.form:105
+msgid "Temperature color"
+msgstr "温度颜色"
+
+#: Reglages.form:770
 msgid "Tethys"
 msgstr "特提斯"
 
-#: Reglages.form:276
+#: Reglages.form:291
 msgid "Theme"
 msgstr "主题"
 
-#: Reglages.class:1551
+#: Reglages.class:1583
 msgid "The stability and security of your system is not optimal !"
 msgstr "您的系统的稳定性和安全性不是最佳的！"
 
@@ -609,11 +705,11 @@ msgstr "您的系统的稳定性和安全性不是最佳的！"
 msgid "The timer is finished."
 msgstr "计时器已结束。"
 
-#: BatteryNotifNew.form:43 ColorBigHour.form:48 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:392 ReminderNotif.form:43
+#: BatteryNotifNew.form:43 ColorBigHour.form:54 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:705 ReminderNotif.form:43
 msgid "Timer"
 msgstr "计时器"
 
-#: Minuteur1.form:149 Reglages.form:406
+#: Minuteur1.form:149 Reglages.form:719
 msgid "Timer alarm"
 msgstr "定时闹钟"
 
@@ -637,19 +733,31 @@ msgstr "Top Island 专为 Deepin 25 开发。"
 msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
 msgstr "Top Island 专为 Deepin 25 开发。\n为您的 Deepin 系统提供多种实用工具：\n- 计时器\n- 邮件通知\n- 安全\n- 坚如磐石的不可变系统\n- 浮动栏\n以及其他实用程序"
 
-#: Reglages.form:1034
+#: Reglages.form:662
 msgid "Transparency"
 msgstr "透明度"
 
-#: Reglages.form:271
+#: Reglages.form:286
 msgid "Transparency of Top Island"
 msgstr "Top Island 的透明度"
 
-#: Reglages.class:1219
+#: Reglages.class:1251
 msgid "Unable to connect to the server. Please check your details."
 msgstr "无法连接到服务器。请检查您的详细信息。"
 
-#: Reglages.form:1108
+#: AQI.class:61
+msgid "Unhealthy"
+msgstr "不良"
+
+#: AQI.class:56
+msgid "Unhealthy for Sensitive Groups"
+msgstr "对敏感人群不健康"
+
+#: Reglages.form:889
+msgid "US"
+msgstr "我们"
+
+#: Reglages.form:954
 msgid "User"
 msgstr "用户"
 
@@ -657,7 +765,7 @@ msgstr "用户"
 msgid "Use with caution ! If you are unsure, do not use this function."
 msgstr "请谨慎使用！如果您不确定，请不要使用此功能。"
 
-#: Reglages.form:373
+#: Reglages.form:686
 msgid "Utilities"
 msgstr "公用事业"
 
@@ -665,11 +773,31 @@ msgstr "公用事业"
 msgid "Version"
 msgstr "版本"
 
+#: AQI.class:134
+msgid "Very poor"
+msgstr "非常差"
+
+#: AQI.class:66
+msgid "Very Unhealthy"
+msgstr "非常不健康"
+
+#: Reglages.form:834
+msgid "Weather"
+msgstr "天气"
+
+#: ColorBigHour.form:110
+msgid "Weather color"
+msgstr "天气颜色"
+
+#: Reglages.form:800
+msgid "Widgets"
+msgstr "小部件"
+
 #: Floating.class:408
 msgid "With delay"
 msgstr "延迟"
 
-#: Reglages.form:1328
+#: Reglages.form:1430
 msgid "Writable status"
 msgstr "可写状态"
 
@@ -681,7 +809,7 @@ msgstr "十"
 msgid "Your mailbox contains "
 msgstr "您的邮箱包含"
 
-#: Reglages.class:1546
+#: Reglages.class:1578
 msgid "Your system stability and security is optimal."
 msgstr "您的系统稳定性和安全性是最佳的。"
 
