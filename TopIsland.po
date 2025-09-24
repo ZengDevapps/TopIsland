@@ -229,10 +229,6 @@ msgstr ""
 msgid "Connection to the server successful."
 msgstr ""
 
-#: TERMO.class:71
-msgid "curl wttr.in/?format='%l|+%t|+%f|+%c' > /tmp/temptmp"
-msgstr ""
-
 #: Reglages.form:519
 msgid "Custom shortcuts"
 msgstr ""
