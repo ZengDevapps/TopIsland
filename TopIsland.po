@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-24 08:15 UTC\n"
+"PO-Revision-Date: 2025-09-26 08:17 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,20 @@ msgstr ""
 msgid "% charged !"
 msgstr ""
 
-#: Reglages.form:1210
+#: Reglages.form:1675
 msgid "(0 = very close to 10 = very distant) See info icon for more information"
 msgstr ""
 
 #: frmAbout.form:140
 msgid "(Changelog)"
+msgstr ""
+
+#: Reglages.form:1384
+msgid "(in addition to the sound and visual indicator on Top Island)"
+msgstr ""
+
+#: Reglages.form:1390
+msgid "(This will show a visual indicator on Top Island with sound notification)"
 msgstr ""
 
 #: AQI.form:39
@@ -29,7 +37,7 @@ msgstr ""
 msgid "----"
 msgstr ""
 
-#: Reglages.form:1568
+#: Reglages.form:1593
 msgid "."
 msgstr ""
 
@@ -41,7 +49,7 @@ msgstr ""
 msgid ":"
 msgstr ""
 
-#: Floating.form:176
+#: Floating.form:177
 msgid "::"
 msgstr ""
 
@@ -49,15 +57,15 @@ msgstr ""
 msgid "°C"
 msgstr ""
 
-#: Reglages.form:1237
+#: Reglages.form:1702
 msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
 msgstr ""
 
-#: Reglages.form:1065
+#: Reglages.form:1195
 msgid "2"
 msgstr ""
 
-#: Reglages.form:1079
+#: Reglages.form:1209
 msgid "995"
 msgstr ""
 
@@ -65,7 +73,7 @@ msgstr ""
 msgid "About"
 msgstr ""
 
-#: Reglages.form:310
+#: Reglages.form:332
 msgid "Above"
 msgstr ""
 
@@ -73,43 +81,39 @@ msgstr ""
 msgid "Abrir Correo"
 msgstr ""
 
-#: Reglages.form:1328
-msgid "Access log"
+#: Reglages.form:1327
+msgid " Access log"
 msgstr ""
 
-#: Reglages.form:1344
-msgid "Add to white list"
-msgstr ""
-
-#: Reglages.class:1333
+#: Reglages.class:1375
 msgid "Add to white liste"
 msgstr ""
 
-#: Reglages.form:867
+#: Reglages.form:997
 msgid "Air Quality (AQI)"
 msgstr ""
 
-#: MailVerif.class:65
-msgid "An error occurred. Please verify your connection details or your internet access."
+#: MailVerif.class:66
+msgid "and your internet access."
 msgstr ""
 
-#: MailVerif.class:137
-msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
+#: MailVerif.class:64
+msgid "An unexpected error has occurred"
 msgstr ""
 
-#: AQI.form:47 Reglages.form:894
+#: AQI.form:47 Reglages.form:1024
 msgid "AQI index"
 msgstr ""
 
-#: AQI.class:77
+#: AQI.class:78
 msgid "AQI index : China"
 msgstr ""
 
-#: AQI.class:111
+#: AQI.class:112
 msgid "AQI index : India"
 msgstr ""
 
-#: AQI.class:46
+#: AQI.class:47
 msgid "AQI index : US"
 msgstr ""
 
@@ -117,55 +121,51 @@ msgstr ""
 msgid " at "
 msgstr ""
 
-#: Reglages.form:1036
+#: Reglages.form:1166
 msgid "Auto close notification"
 msgstr ""
 
-#: Reglages.form:1203
+#: Reglages.form:1668
 msgid "Auto lock and unlock (dBm)"
 msgstr ""
 
-#: Floating.form:98 Reglages.form:635
+#: Floating.form:99 Reglages.form:665
 msgid "Baidu"
 msgstr ""
 
-#: Reglages.form:371
+#: Reglages.form:393
 msgid "Battery"
 msgstr ""
 
-#: BatteryNotifNew.form:65 NotifAlert.form:58
+#: BatteryNotifNew.form:65
 msgid "Battery information"
 msgstr ""
 
-#: Reglages.form:404
+#: Reglages.form:426
 msgid "Battery sound"
 msgstr ""
 
-#: Reglages.form:310
+#: Reglages.form:332
 msgid "Below"
 msgstr ""
 
-#: Reglages.form:857
+#: Reglages.form:987
 msgid "Big hour"
 msgstr ""
 
-#: Floating.form:113 Reglages.form:635
+#: Floating.form:114 Reglages.form:665
 msgid "Bing"
 msgstr ""
 
-#: Reglages.form:297
+#: Reglages.form:319
 msgid "Black"
 msgstr ""
 
-#: FollowMe.form:80
-msgid "BlueSky"
-msgstr ""
-
-#: Reglages.form:1198
+#: Reglages.form:1663
 msgid "Bluetooth device"
 msgstr ""
 
-#: Reglages.form:344
+#: Reglages.form:366
 msgid "Calendar app"
 msgstr ""
 
@@ -173,47 +173,51 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: Reglages.form:714
+#: Reglages.form:844
 msgid "Candy"
 msgstr ""
 
-#: Reglages.form:845
+#: Reglages.form:975
 msgid "Change color"
 msgstr ""
 
-#: Reglages.form:979
+#: Reglages.form:1109
 msgid "Check"
 msgstr ""
 
-#: Reglages.form:991
+#: Reglages.form:1121
 msgid "Check every"
 msgstr ""
 
-#: Reglages.form:934
+#: Reglages.form:1064
 msgid "Check Mail"
 msgstr ""
 
-#: Reglages.form:714
+#: Reglages.form:844
 msgid "Childhood"
 msgstr ""
 
-#: Reglages.form:889
+#: Reglages.form:1019
 msgid "China"
 msgstr ""
 
-#: Reglages.form:360
+#: Reglages.form:382
 msgid "Choose a.desktop file !"
 msgstr ""
 
-#: Reglages.form:646
+#: Reglages.form:676
 msgid "Choose your color"
+msgstr ""
+
+#: Reglages.form:710
+msgid "Choose your last shortcut"
 msgstr ""
 
 #: Minuteur1.form:147
 msgid "Choose your timer alarm in the settings"
 msgstr ""
 
-#: Reglages.form:1356
+#: Reglages.class:1093
 msgid "Clear log"
 msgstr ""
 
@@ -221,27 +225,35 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+#: ColorBigHour.form:135
+msgid "Color"
+msgstr ""
+
 #: MailVerif.form:24
 msgid "Comprobar ahora"
 msgstr ""
 
-#: Reglages.class:1244
+#: Reglages.class:1286
 msgid "Connection to the server successful."
 msgstr ""
 
-#: Reglages.form:519
+#: Reglages.form:761
+msgid "Custom shortcut :<br>\n- Settings<br>\n- Lock session<br>\n- Turn off"
+msgstr ""
+
+#: Reglages.form:549
 msgid "Custom shortcuts"
 msgstr ""
 
-#: ColorBigHour.form:83
-msgid "Date color"
+#: ColorBigHour.form:84
+msgid "Date"
 msgstr ""
 
-#: Reglages.form:770 ReminderNotif.class:13
+#: Reglages.form:900 ReminderNotif.class:13
 msgid "Default"
 msgstr ""
 
-#: Reglages.form:281
+#: Reglages.form:303
 msgid "Delay to go back to initial position"
 msgstr ""
 
@@ -261,6 +273,10 @@ msgstr ""
 msgid "Description here..."
 msgstr ""
 
+#: Floating.class:199
+msgid "Desktop"
+msgstr ""
+
 #: Reglages.form:1315
 msgid "Detect if the microphone is in use"
 msgstr ""
@@ -269,23 +285,35 @@ msgstr ""
 msgid "Detect if the webcam is in use"
 msgstr ""
 
-#: Reglages.class:159
+#: Reglages.class:176
 msgid "Device name : "
 msgstr ""
 
-#: Floating.form:93 Reglages.form:635
+#: Reglages.form:1371
+msgid "Display a notification"
+msgstr ""
+
+#: Floating.class:201
+msgid "Documents"
+msgstr ""
+
+#: Floating.class:209
+msgid "Downloads"
+msgstr ""
+
+#: Floating.form:94 Reglages.form:665
 msgid "DuckDuckGo"
 msgstr ""
 
-#: Reglages.form:714
+#: Reglages.form:844
 msgid "Dynamic"
 msgstr ""
 
-#: Reglages.form:770
+#: Reglages.form:900
 msgid "Elara"
 msgstr ""
 
-#: Reglages.form:443
+#: Reglages.form:465
 msgid "Enables new sounds when the charger is plugged in or unplugged."
 msgstr ""
 
@@ -297,31 +325,51 @@ msgstr ""
 msgid "Enter your command here"
 msgstr ""
 
-#: AQI.class:80
+#: AQI.class:81
 msgid "Excellent"
 msgstr ""
 
-#: Reglages.form:1537
+#: Reglages.form:1562
 msgid "Execute command without disable immutable service"
 msgstr ""
 
-#: Reglages.form:431
+#: Reglages.form:453
 msgid "Extend battery life"
 msgstr ""
 
-#: Reglages.form:714
+#: Reglages.form:844
 msgid "Fairyland"
 msgstr ""
 
-#: ColorBigHour.form:115
-msgid "Feeling temp color"
+#: Reglages.form:501
+msgid "Feature not available for your computer"
 msgstr ""
 
-#: Reglages.form:474
+#: Reglages.form:1732
+msgid "Feature not available yet"
+msgstr ""
+
+#: ColorBigHour.form:117
+msgid "Feeling temp"
+msgstr ""
+
+#: TERMO.class:68
+msgid "Feels like "
+msgstr ""
+
+#: Reglages.form:754
+msgid " Fixed built-in shortcuts"
+msgstr ""
+
+#: Reglages.form:504
 msgid "Floating Bar"
 msgstr ""
 
-#: Floating.form:466
+#: Reglages.form:811
+msgid "Floating Bar info"
+msgstr ""
+
+#: Floating.form:473
 msgid "Folders"
 msgstr ""
 
@@ -329,19 +377,19 @@ msgstr ""
 msgid "Follow me"
 msgstr ""
 
-#: FollowMe.form:106 frmAbout.form:120
+#: FollowMe.form:103 frmAbout.form:120
 msgid "Follow Me"
 msgstr ""
 
-#: Reglages.form:456
+#: Reglages.form:478
 msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
 msgstr ""
 
-#: Reglages.form:770
+#: Reglages.form:900
 msgid "Fresh"
 msgstr ""
 
-#: MailVerif.class:116
+#: MailVerif.class:117
 msgid "From : "
 msgstr ""
 
@@ -353,47 +401,51 @@ msgstr ""
 msgid "Full With delay"
 msgstr ""
 
-#: Reglages.form:249
+#: Reglages.form:271
 msgid "General"
 msgstr ""
 
-#: Reglages.form:297
+#: Reglages.form:319
 msgid "Glass"
 msgstr ""
 
-#: AQI.class:48
+#: AQI.class:49
 msgid "Good"
 msgstr ""
 
-#: Floating.form:108 Reglages.form:635
+#: Floating.form:109 Reglages.form:665
 msgid "Google"
 msgstr ""
 
-#: AQI.class:71
+#: AQI.class:72
 msgid "Hazardous"
 msgstr ""
 
-#: AQI.class:100
+#: AQI.class:101
 msgid "Heavy pollution"
 msgstr ""
 
-#: ColorBigHour.form:73
-msgid "Hour color"
+#: NotifDetect.form:88
+msgid "Hide notification"
 msgstr ""
 
-#: FollowMe.form:127
+#: ColorBigHour.form:74
+msgid "Hour"
+msgstr ""
+
+#: FollowMe.form:123
 msgid "https://zengdev.com"
 msgstr ""
 
-#: Reglages.form:1437
+#: Reglages.form:1462
 msgid "Immutable mode"
 msgstr ""
 
-#: Reglages.form:889
+#: Reglages.form:1019
 msgid "India"
 msgstr ""
 
-#: Reglages.form:1064
+#: Reglages.form:1194
 msgid "Intervalo entre comprobaciones"
 msgstr ""
 
@@ -401,8 +453,12 @@ msgstr ""
 msgid "It is recommended to unplug the charger."
 msgstr ""
 
-#: Floating.class:413
+#: Floating.class:426
 msgid "Launch app"
+msgstr ""
+
+#: Floating.class:158 Reglages.form:716
+msgid "Lock session"
 msgstr ""
 
 #: Demon.module:137
@@ -413,11 +469,11 @@ msgstr ""
 msgid "M"
 msgstr ""
 
-#: Reglages.form:904
+#: Reglages.form:1034
 msgid "Mail"
 msgstr ""
 
-#: Reglages.form:974
+#: Reglages.form:1104
 msgid "Mail app"
 msgstr ""
 
@@ -437,15 +493,11 @@ msgstr ""
 msgid "MailVerif"
 msgstr ""
 
-#: FollowMe.form:89
-msgid "Mastodon"
-msgstr ""
-
 #: ReminderBox.form:106
 msgid "Maximum 145 characters for optimal display"
 msgstr ""
 
-#: Floating.form:89 Island.form:43
+#: Floating.form:90 Island.form:43
 msgid "Menu1"
 msgstr ""
 
@@ -453,39 +505,43 @@ msgstr ""
 msgid " messages."
 msgstr ""
 
-#: ColorBigHour.form:78
-msgid "Minute color"
+#: ColorBigHour.form:79
+msgid "Minute"
 msgstr ""
 
-#: Reglages.form:998
+#: Reglages.form:1128
 msgid "minutes"
 msgstr ""
 
-#: AQI.class:51
+#: AQI.class:52
 msgid "Moderate"
 msgstr ""
 
-#: AQI.class:95
+#: AQI.class:96
 msgid "Moderate pollution"
 msgstr ""
 
-#: MailVerif.class:115 NotifMailNew.form:72
+#: Floating.class:205
+msgid "Music"
+msgstr ""
+
+#: MailVerif.class:116 NotifMailNew.form:72
 msgid "New mail"
 msgstr ""
 
-#: Reglages.form:409
+#: Reglages.form:431
 msgid "Notification if battery is at 25%"
 msgstr ""
 
-#: Reglages.form:420
+#: Reglages.form:442
 msgid "Notification if battery is at 80%"
 msgstr ""
 
-#: Reglages.form:775
+#: Reglages.form:905
 msgid "Notification sound"
 msgstr ""
 
-#: MailVerif.class:117
+#: MailVerif.class:118
 msgid "Object : "
 msgstr ""
 
@@ -501,19 +557,27 @@ msgstr ""
 msgid "Open your mailbox"
 msgstr ""
 
-#: Reglages.form:959
+#: Reglages.form:1089
 msgid "Password"
+msgstr ""
+
+#: Floating.class:203
+msgid "Pictures"
 msgstr ""
 
 #: Minuteur1.class:121
 msgid "Please select minute / second"
 msgstr ""
 
-#: AQI.class:129
+#: MailVerif.class:65
+msgid "Please verify your connection details"
+msgstr ""
+
+#: AQI.class:130
 msgid "Poor"
 msgstr ""
 
-#: Reglages.form:964
+#: Reglages.form:1094
 msgid "Port"
 msgstr ""
 
@@ -521,15 +585,19 @@ msgstr ""
 msgid "Preferencias"
 msgstr ""
 
+#: NotifDetect.form:67 Reglages.form:1262
+msgid "Privacy"
+msgstr ""
+
 #: Island.form:70
 msgid "Quit"
 msgstr ""
 
-#: Floating.form:118 Reglages.form:635
+#: Floating.form:119 Reglages.form:665
 msgid "Qwant"
 msgstr ""
 
-#: Floating.form:480 Island.form:52 Reglages.form:761
+#: Floating.form:487 Island.form:52 Reglages.form:789
 msgid "Reminder"
 msgstr ""
 
@@ -537,15 +605,19 @@ msgstr ""
 msgid "Reminder active"
 msgstr ""
 
-#: Reglages.form:674
+#: Reglages.form:704
 msgid "Reset"
 msgstr ""
 
-#: RSISTerm.form:85 Reglages.form:1414
+#: ColorBigHour.form:94
+msgid "Reset default color"
+msgstr ""
+
+#: RSISTerm.form:85 Reglages.form:1439
 msgid "Rock-Solid Immutable System"
 msgstr ""
 
-#: Reglages.form:1388
+#: Reglages.form:1413
 msgid "RSIS"
 msgstr ""
 
@@ -553,7 +625,7 @@ msgstr ""
 msgid "Run"
 msgstr ""
 
-#: Reglages.form:1532
+#: Reglages.form:1557
 msgid "Run a command"
 msgstr ""
 
@@ -565,11 +637,11 @@ msgstr ""
 msgid "Salir"
 msgstr ""
 
-#: AQI.class:119
+#: AQI.class:120
 msgid "Satisfactory"
 msgstr ""
 
-#: Reglages.form:624
+#: Reglages.form:654
 msgid "Save"
 msgstr ""
 
@@ -585,31 +657,31 @@ msgstr ""
 msgid "Screen scroll"
 msgstr ""
 
-#: Floating.form:473
+#: Floating.form:480
 msgid "Screenshot"
+msgstr ""
+
+#: Reglages.form:782
+msgid "Screenshot functions"
 msgstr ""
 
 #: Floating.class:68
 msgid "Screen video record"
 msgstr ""
 
-#: Reglages.form:629
+#: Reglages.form:659
 msgid "Search engine"
-msgstr ""
-
-#: Reglages.form:1262
-msgid "Security"
 msgstr ""
 
 #: SecurityWhite.form:71
 msgid "Security white list"
 msgstr ""
 
-#: Reglages.form:1339
+#: Reglages.class:1082
 msgid "See file with file manager"
 msgstr ""
 
-#: Reglages.class:1345
+#: Reglages.class:1387
 msgid "See white liste"
 msgstr ""
 
@@ -617,59 +689,59 @@ msgstr ""
 msgid "Select window"
 msgstr ""
 
-#: Reglages.form:949
+#: Reglages.form:1079
 msgid "Server"
 msgstr ""
 
-#: Reglages.form:1132
+#: Reglages.form:1597
 msgid "Session"
 msgstr ""
 
-#: Reglages.form:1245
+#: Reglages.form:1710
 msgid "Session auto Lock & Unlock"
 msgstr ""
 
-#: Floating.form:494 Island.form:60
+#: Floating.class:154 Island.form:60 Reglages.form:716
 msgid "Settings"
 msgstr ""
 
-#: AQI.class:139
+#: AQI.class:140
 msgid "Severe"
 msgstr ""
 
-#: AQI.class:105
+#: AQI.class:106
 msgid "Severe pollution"
 msgstr ""
 
-#: Reglages.form:1542
+#: Reglages.form:1567
 msgid "Show status icon on Top Island when RSIS is disabled "
 msgstr ""
 
-#: Reglages.form:862
+#: Reglages.form:992
 msgid "Show widget on the center of your desktop (hour, weather, AQI)"
 msgstr ""
 
-#: Reglages.form:1177
+#: Reglages.form:1642
 msgid "Signal strength"
 msgstr ""
 
-#: AQI.class:90
+#: AQI.class:91
 msgid "Slight pollution"
 msgstr ""
 
-#: Reglages.form:310
+#: Reglages.form:332
 msgid "Smart"
 msgstr ""
 
-#: Floating.form:103 Reglages.form:635
+#: Floating.form:104 Reglages.form:665
 msgid "Sogou"
 msgstr ""
 
-#: Reglages.form:984
+#: Reglages.form:1114
 msgid "SSL / TLS"
 msgstr ""
 
-#: Reglages.form:276
+#: Reglages.form:298
 msgid "Stacking"
 msgstr ""
 
@@ -681,23 +753,19 @@ msgstr ""
 msgid "Support me to offer free programs for Deepin Linux"
 msgstr ""
 
-#: FollowMe.form:116
-msgid "Telegram"
+#: ColorBigHour.form:107
+msgid "Temperature"
 msgstr ""
 
-#: ColorBigHour.form:105
-msgid "Temperature color"
-msgstr ""
-
-#: Reglages.form:770
+#: Reglages.form:900
 msgid "Tethys"
 msgstr ""
 
-#: Reglages.form:291
+#: Reglages.form:313
 msgid "Theme"
 msgstr ""
 
-#: Reglages.class:1583
+#: Reglages.class:1625
 msgid "The stability and security of your system is not optimal !"
 msgstr ""
 
@@ -705,11 +773,15 @@ msgstr ""
 msgid "The timer is finished."
 msgstr ""
 
-#: BatteryNotifNew.form:43 ColorBigHour.form:54 Floating.form:487 Island.form:47 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:705 ReminderNotif.form:43
+#: NotifDetect.form:74
+msgid "This app wants to access the webcam and/or microphone."
+msgstr ""
+
+#: BatteryNotifNew.form:43 ColorBigHour.form:55 Floating.form:509 Island.form:47 Minuteur1.form:53 NotifAlert.form:44 NotifDetect.form:45 NotifMailNew.form:44 Reglages.form:796 ReminderNotif.form:43
 msgid "Timer"
 msgstr ""
 
-#: Minuteur1.form:149 Reglages.form:719
+#: Minuteur1.form:149 Reglages.form:849
 msgid "Timer alarm"
 msgstr ""
 
@@ -733,39 +805,47 @@ msgstr ""
 msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
 msgstr ""
 
-#: Reglages.form:662
+#: Reglages.form:692
 msgid "Transparency"
 msgstr ""
 
-#: Reglages.form:286
+#: Reglages.form:308
 msgid "Transparency of Top Island"
 msgstr ""
 
-#: Reglages.class:1251
+#: Floating.class:161 Reglages.form:716
+msgid "Turn off"
+msgstr ""
+
+#: Reglages.class:1293
 msgid "Unable to connect to the server. Please check your details."
 msgstr ""
 
-#: AQI.class:61
+#: AQI.class:62
 msgid "Unhealthy"
 msgstr ""
 
-#: AQI.class:56
+#: AQI.class:57
 msgid "Unhealthy for Sensitive Groups"
 msgstr ""
 
-#: Reglages.form:889
+#: Reglages.form:1019
 msgid "US"
 msgstr ""
 
-#: Reglages.form:954
+#: Reglages.form:1084
 msgid "User"
+msgstr ""
+
+#: Reglages.form:775
+msgid "User folders"
 msgstr ""
 
 #: RSISTerm.form:92
 msgid "Use with caution ! If you are unsure, do not use this function."
 msgstr ""
 
-#: Reglages.form:686
+#: Reglages.form:816
 msgid "Utilities"
 msgstr ""
 
@@ -773,47 +853,59 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: AQI.class:134
+#: AQI.class:135
 msgid "Very poor"
 msgstr ""
 
-#: AQI.class:66
+#: AQI.class:67
 msgid "Very Unhealthy"
 msgstr ""
 
-#: Reglages.form:834
+#: Floating.class:207
+msgid "Videos"
+msgstr ""
+
+#: NotifDetect.form:80
+msgid "View log"
+msgstr ""
+
+#: Demon.module:187
+msgid "wants to access the microphone."
+msgstr ""
+
+#: Demon.module:234
+msgid "wants to access the webcam."
+msgstr ""
+
+#: ColorBigHour.form:112 Reglages.form:964
 msgid "Weather"
 msgstr ""
 
-#: ColorBigHour.form:110
-msgid "Weather color"
+#: Floating.form:494 Reglages.form:768
+msgid "Web search"
 msgstr ""
 
-#: Reglages.form:800
+#: Reglages.form:930
 msgid "Widgets"
 msgstr ""
 
-#: Floating.class:408
+#: Floating.class:421
 msgid "With delay"
 msgstr ""
 
-#: Reglages.form:1430
+#: Reglages.form:1455
 msgid "Writable status"
-msgstr ""
-
-#: FollowMe.form:71
-msgid "X"
 msgstr ""
 
 #: MailVerif.class:47
 msgid "Your mailbox contains "
 msgstr ""
 
-#: Reglages.class:1578
+#: Reglages.class:1620
 msgid "Your system stability and security is optimal."
 msgstr ""
 
-#: Floating.form:167
+#: Floating.form:168
 msgid "|"
 msgstr ""
 
