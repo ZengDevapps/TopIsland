@@ -11,6 +11,9 @@ You will find the source code files in the archive. For development purposes, so
 <p><img src="https://zengdev.com/wp-content/uploads/2025/09/Capture-decran_20250926103243.png" alt="" width="729" height="423" /></p>
 <br>
 <br>
+PS : Install my reposiroty first (zeng4deepin-repository.deb) to avoid dependency issues.
+<br>
+<br>
 
 Website : [https://zengdev.com](https://zengdev.com)
 
